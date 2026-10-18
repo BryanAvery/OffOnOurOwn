@@ -1,0 +1,26 @@
+name: Audit travel content and images
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/**'
+      - 'scripts/audit_site.py'
+      - '.github/workflows/content-audit.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Audit all imported posts and image references
+        run: python3 scripts/audit_site.py
+      - name: Upload CSV and summary reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: offonourown-content-audit
+          path: audit-results/
+          if-no-files-found: warn

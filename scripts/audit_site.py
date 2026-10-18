@@ -8,8 +8,8 @@ from urllib.parse import urlparse, unquote
 ROOT=Path("content")
 OUT=Path("audit-results")
 OUT.mkdir(exist_ok=True)
-COUNTRIES=set("""Argentina Australia Austria Bangladesh Belize Bolivia Brazil Cambodia Canada Chile China Colombia Costa Rica Croatia Ecuador Egypt Fiji France Germany Greece India Indonesia Ireland Italy Japan Kenya Laos Malaysia Mexico Morocco Myanmar Nepal Panama Peru Philippines Portugal Singapore Spain Sri_Lanka South_Africa Switzerland Tanzania Thailand Turkey United_Kingdom United_States Vietnam New_Zealand Czechia Czech_Republic""".split())
-ALIASES={"UK":"United_Kingdom","USA":"United_States","United States of America":"United_States"}
+COUNTRIES=set("""Argentina Australia Austria Bangladesh Belize Bolivia Brazil Bulgaria Cambodia Canada Chile China Colombia Costa Rica Croatia Ecuador Egypt Fiji France Germany Greece India Indonesia Ireland Italy Japan Kenya Laos Malaysia Mexico Morocco Myanmar Nepal Panama Paraguay Peru Philippines Portugal Singapore Spain Sri_Lanka South_Africa Switzerland Tanzania Thailand Turkey United_Kingdom United_States Vietnam New_Zealand Czechia Czech_Republic England""".split())
+ALIASES={"UK":"United_Kingdom","USA":"United_States","U.S.A.":"United_States","Brasil":"Brazil","Czech":"Czech_Republic","United States of America":"United_States"}
 PHOTO_HOST="photos.offonourown.co.uk"
 img_re=re.compile(r"""(?:src|href|data-src|data-lazy-src|poster)\s*=\s*["']([^"']+\.(?:jpe?g|png|gif|webp|avif)(?:\?[^"']*)?)["']|https?://[^\s"'<>]+\.(?:jpe?g|png|gif|webp|avif)(?:\?[^\s"'<>]*)?""",re.I)
 url_re=re.compile(r'https?://[^\s"\'<>),]+',re.I)

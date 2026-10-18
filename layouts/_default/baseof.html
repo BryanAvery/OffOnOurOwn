@@ -1,0 +1,7 @@
+<!doctype html>
+<html lang="en-gb"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+<link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
+</head><body><header class="site-header"><div class="wrap"><a class="brand" href="{{ site.Home.RelPermalink }}">Off On Our Own <span>...!</span></a><nav><a href="{{ "stories/" | relURL }}">Journal</a><a href="{{ "travel/" | relURL }}">Destinations & trips</a><a href="{{ "destinations/" | relURL }}">Countries</a><a href="{{ "about/" | relURL }}">About</a></nav></div></header>
+<main class="wrap">{{ block "main" . }}{{ end }}</main><footer class="wrap footer">Off On Our Own · Travel stories and memories</footer></body></html>

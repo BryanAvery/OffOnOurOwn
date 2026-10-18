@@ -1,0 +1,7 @@
+{{ define "main" }}<article class="article"><p class="eyebrow">{{ if eq .Section "travel" }}Travel archive{{ else if eq .Section "stories" }}Travel journal{{ else }}Off On Our Own{{ end }}</p><h1>{{ .Title }}</h1>
+{{ if ne .Section "pages" }}<p class="dateline">{{ .Date.Format "2 January 2006" }}</p>{{ end }}
+{{ with .Params.destinations }}<div class="tags">{{ range . }}<span>{{ . }}</span>{{ end }}</div>{{ end }}
+{{ with .Params.categories }}<div class="tags">{{ range . }}<span>{{ . }}</span>{{ end }}</div>{{ end }}
+<div class="wordpress-body">{{ .Content }}</div>
+{{ with .Params.migration_notes }}<aside class="migration-notice"><strong>Migration preview:</strong> This story includes legacy elements still being checked.</aside>{{ end }}
+</article><p><a href="{{ site.Home.RelPermalink }}">← Back home</a></p>{{ end }}

@@ -1,0 +1,5 @@
+{{ define "main" }}
+<section class="hero"><p class="eyebrow">Travel journal</p><h1>Off On Our Own</h1><p>Journeys, places, people and memories from around the world.</p></section>
+<h2>Recent stories</h2><div class="cards">{{ range first 18 (sort (where site.RegularPages "Section" "stories") "Date" "desc") }}{{ partial "card.html" . }}{{ end }}</div>
+<p><a class="more" href="{{ "stories/" | relURL }}">Browse every story →</a></p><h2>Travel archive</h2><p>Browse the old travel entries and destination cards, with the original addresses preserved.</p><p><a class="more" href="{{ "travel/" | relURL }}">Explore the travel archive →</a></p>
+{{ end }}

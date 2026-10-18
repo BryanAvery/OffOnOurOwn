@@ -1,0 +1,15 @@
+# Never commit raw WordPress XML, database exports or full backups
+*.xml
+*.sql
+*.zip
+.DS_Store
+/public/
+/resources/
+.hugo_build.lock
+node_modules/
+
+# WordPress media and migration working files
+uploads.zip
+media-extracted/
+media-audit/
+migration/

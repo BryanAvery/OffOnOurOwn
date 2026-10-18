@@ -1,0 +1,2 @@
+{{ define "main" }}<section class="intro"><p class="eyebrow">Archive</p><h1>{{ .Title }}</h1><p>{{ len .RegularPages }} entries</p></section>
+<div class="cards">{{ range .Pages.ByDate.Reverse }}{{ partial "card.html" . }}{{ end }}</div>{{ end }}

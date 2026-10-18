@@ -1,0 +1,19 @@
+baseURL = "https://bryanavery.github.io/OffOnOurOwn/"
+languageCode = 'en-gb'
+title = 'Off On Our Own'
+summaryLength = 36
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  destination = 'destinations'
+  topic = 'topics'
+
+[params]
+  description = 'Travels around the world'
+
+[security]
+  allowContent = ['^text/html$', '^text/markdown$']

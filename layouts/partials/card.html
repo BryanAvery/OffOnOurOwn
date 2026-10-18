@@ -1,0 +1,1 @@
+<article class="card"><p class="eyebrow">{{ if eq .Section "travel" }}Archive{{ else }}Journal{{ end }}</p><h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3><p class="dateline">{{ .Date.Format "2 Jan 2006" }}</p>{{ with .Description }}<p>{{ . | plainify | truncate 125 }}</p>{{ end }}</article>

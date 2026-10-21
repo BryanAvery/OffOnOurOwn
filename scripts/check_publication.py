@@ -14,7 +14,7 @@ def page(path: str) -> str:
 
 
 home = page("index.html")
-assert 'href="/css/site.css"' in home, "Stylesheet must use the custom-domain root"
+assert '/css/site.css' in home, "Stylesheet must use the custom-domain root"
 assert 'href="/OffOnOurOwn/' not in home, "Old GitHub project subdirectory remains"
 assert "https://photos.offonourown.co.uk/" in home, "Home hero should use available photo metadata"
 

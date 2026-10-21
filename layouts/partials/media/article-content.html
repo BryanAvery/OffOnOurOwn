@@ -1,0 +1,5 @@
+{{- /* Rewrite legacy WordPress upload links when rendering; original articles stay unchanged. */ -}}
+{{- $content := printf "%s" .Content -}}
+{{- $content = replaceRE "(?i)https?://[^/\"'<>[:space:]]+/wp-content/uploads/" "https://photos.offonourown.co.uk/" $content -}}
+{{- $content = replace $content "/wp-content/uploads/" "https://photos.offonourown.co.uk/" -}}
+{{- $content | safeHTML -}}

@@ -1,6 +1,8 @@
-name: Build preview with Hugo
+name: Build and deploy Hugo website
 on:
   push:
+    branches: [main]
+  pull_request:
     branches: [main]
   workflow_dispatch:
 permissions:
@@ -8,7 +10,7 @@ permissions:
   pages: write
   id-token: write
 concurrency:
-  group: github-pages
+  group: github-pages-${{ github.ref }}
   cancel-in-progress: false
 jobs:
   build:
@@ -21,16 +23,20 @@ jobs:
         with:
           hugo-version: '0.168.0'
           extended: true
+      - name: Build for custom domain
+        run: hugo --gc --minify --baseURL "https://offonourown.co.uk/"
+      - name: Smoke-test generated pages and photo references
+        run: python3 scripts/check_publication.py public
       - name: Configure GitHub Pages
-        id: pages
+        if: github.event_name != 'pull_request'
         uses: actions/configure-pages@v5
-      - name: Build preview
-        run: hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload site
+        if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v5
         with:
           path: ./public
   deploy:
+    if: github.event_name != 'pull_request'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

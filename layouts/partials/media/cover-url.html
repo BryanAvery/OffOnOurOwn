@@ -1,0 +1,23 @@
+{{- /* Return a photograph from migrated WordPress metadata or story content. */ -}}
+{{- $image := "" -}}
+{{- with .Params.legacy_featured_image -}}
+  {{- $image = . -}}
+{{- end -}}
+{{- if not $image -}}
+  {{- $photos := findRE "(?i)https?://photos[.]offonourown[.]co[.]uk/[^\"'<>[:space:]]+" .RawContent 1 -}}
+  {{- with $photos -}}
+    {{- $image = index . 0 -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $image -}}
+  {{- $uploads := findRE "(?i)(?:https?://[^/\"'<>[:space:]]+)?/wp-content/uploads/[^\"'<>[:space:]]+" .RawContent 1 -}}
+  {{- with $uploads -}}
+    {{- $image = index . 0 -}}
+  {{- end -}}
+{{- end -}}
+{{- if $image -}}
+  {{- $image = replaceRE "(?i)https?://[^/\"'<>[:space:]]+/wp-content/uploads/" "https://photos.offonourown.co.uk/" $image -}}
+  {{- $image = replace $image "/wp-content/uploads/" "https://photos.offonourown.co.uk/" -}}
+  {{- $image = replaceRE "^http://photos[.]offonourown[.]co[.]uk/" "https://photos.offonourown.co.uk/" $image -}}
+{{- end -}}
+{{- return $image -}}

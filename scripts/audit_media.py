@@ -74,7 +74,7 @@ def main():
     if not args.source.exists():
         parser.error(f'File or directory not found: {args.source}')
     if not args.manifest.exists():
-        parser.error(f'Missing media manifest: {args.manifest}')
+        print(f'Note: optional attachment manifest not found: {args.manifest}', file=sys.stderr)
     if args.source.is_file() and not zipfile.is_zipfile(args.source):
         parser.error('Source must be a ZIP archive or a directory')
     actual = archive_entries(args.source) if args.source.is_file() else folder_entries(args.source)

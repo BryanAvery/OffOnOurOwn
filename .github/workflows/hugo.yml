@@ -27,6 +27,23 @@ jobs:
         run: hugo --gc --minify --baseURL "https://offonourown.co.uk/"
       - name: Smoke-test generated pages and photo references
         run: python3 scripts/check_publication.py public
+      - name: Check availability of sample WordPress photographs
+        # A missing media host is an infrastructure/storage problem, not a Hugo build error.
+        continue-on-error: true
+        shell: bash
+        run: |
+          urls=(
+            'https://photos.offonourown.co.uk/2016/05/shapeimage_4-78-300x225.png'
+            'https://photos.offonourown.co.uk/2026/08/img_5329-768x1024.jpeg'
+          )
+          for url in "${urls[@]}"; do
+            status=$(curl --location --silent --show-error --range 0-0 --connect-timeout 5 --max-time 15 --output /dev/null --write-out '%{http_code}' "$url") || status="connection failed ($status)"
+            echo "$url: $status"
+            if [[ "$status" != '200' && "$status" != '206' ]]; then
+              echo "::warning::The photograph host or media object is unavailable: $url ($status)"
+              exit 1
+            fi
+          done
       - name: Configure GitHub Pages
         if: github.event_name != 'pull_request'
         uses: actions/configure-pages@v5

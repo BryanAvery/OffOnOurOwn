@@ -18,7 +18,9 @@ The repository contains **post content but not the original photograph files**. 
 
 During rendering Hugo now rewrites both the original \`/wp-content/uploads/\` links and absolute WordPress upload URLs to the photo hostname. Story cards also use \`legacy_featured_image\` or the first referenced photo where available. These changes repair **links and layout only**. They do not move photographs to the host or make absent files appear.
 
-Original WordPress \`[gallery ids="..."]\` shortcodes, TravelPod and Flickr content may still need migration. Rebuilding WordPress galleries requires an attachment ID-to-file mapping from the old site/export and the actual photographs, not just the post HTML. The migration notes on affected articles are retained for review.
+Original WordPress \`[gallery ids="..."]\` shortcodes, TravelPod content may still need migration. Rebuilding WordPress galleries requires an attachment ID-to-file mapping from the old site/export and the actual photographs, not just the post HTML. The migration notes on affected articles are retained for review.
+
+Legacy `[flickr_set id="..."]` shortcodes now render responsive Flickr album slideshows from the `offonourown` Flickr account. Each embed has a direct link to its album as a fallback. Flickr albums must be public for photographs to appear; this fix does not import or host them.
 
 ## Quality checks
 

@@ -33,4 +33,36 @@ robots = page("robots.txt")
 assert "Disallow: /" not in robots, "Live site must not be blocked from indexing"
 assert (public / "CNAME").read_text(encoding="utf-8").strip() == "offonourown.co.uk"
 
+
+# Every migrated [flickr_set] shortcode must display its corresponding Flickr album.
+import re
+
+shortcode_re = re.compile(r"""\[flickr_set\s+id=["']?([0-9]+)["']?\s*\]""", re.IGNORECASE)
+flickr_pages = 0
+flickr_embeds = 0
+for source_file in Path("content").rglob("*.html"):
+    source = source_file.read_text(encoding="utf-8")
+    album_ids = shortcode_re.findall(source)
+    if not album_ids:
+        assert "[flickr_set" not in source.lower(), f"Unrecognised Flickr shortcode in {source_file}"
+        continue
+
+    url = re.search(r"""(?m)^url:\s*['"]?(/[^'"\s]+)""", source)
+    assert url, f"Missing published URL for {source_file}"
+    output_path = str(Path(url.group(1).lstrip("/")) / "index.html")
+    rendered = page(output_path)
+    assert "[flickr_set" not in rendered.lower(), f"Unconverted Flickr shortcode on {output_path}"
+
+    for album_id in album_ids:
+        assert f'src="https://embedr.flickr.com/photosets/{album_id}"' in rendered, (
+            f"Missing embedded Flickr album {album_id} on {output_path}"
+        )
+        assert f'https://www.flickr.com/photos/offonourown/albums/{album_id}/' in rendered, (
+            f"Missing Flickr album link {album_id} on {output_path}"
+        )
+    flickr_pages += 1
+    flickr_embeds += len(album_ids)
+
+print(f"Flickr album checks passed: {flickr_embeds} embeds across {flickr_pages} content pages.")
+
 print("Publication smoke checks passed: domain, stylesheet, articles, media URL rewrites and indexing.")

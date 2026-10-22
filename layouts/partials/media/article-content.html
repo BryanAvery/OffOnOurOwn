@@ -2,6 +2,6 @@
 {{- $content := printf "%s" .Content -}}
 {{- $content = replaceRE "(?i)https?://[^/\"'<>[:space:]]+/wp-content/uploads/" "https://photos.offonourown.co.uk/" $content -}}
 {{- $content = replace $content "/wp-content/uploads/" "https://photos.offonourown.co.uk/" -}}
-{{- /* Render imported WordPress Flickr album shortcodes as embedded slideshows. */ -}}
-{{- $content = replaceRE `(?i)(?:<pre\b[^>]*>[[:space:]]*)?\[flickr_set[[:space:]]+id=["']?([0-9]+)["']?[[:space:]]*\](?:[[:space:]]*</pre>)?` `<figure class="flickr-album"><iframe src="https://embedr.flickr.com/photosets/$1" title="Flickr photo album $1" loading="lazy" allowfullscreen></iframe><figcaption><a href="https://www.flickr.com/photos/offonourown/albums/$1/" target="_blank" rel="noopener noreferrer">View this photo album on Flickr</a></figcaption></figure>` $content -}}
+{{- /* Goldmark HTML-escapes quotes in some [flickr_set] tokens (e.g. id=&#34;123&#34;). Match raw and entity-escaped variants. */ -}}
+{{- $content = replaceRE `(?i)(?:<pre\b[^>]*>[[:space:]]*)?\[flickr_set[[:space:]]+id[[:space:]]*=[[:space:]]*(?:"|'|&quot;|&#34;|&#x22;|&#39;|&#x27;)?([0-9]+)(?:"|'|&quot;|&#34;|&#x22;|&#39;|&#x27;)?[[:space:]]*\](?:[[:space:]]*</pre>)?` `<figure class="flickr-album"><iframe src="https://embedr.flickr.com/photosets/$1" title="Flickr photo album $1" loading="lazy" allowfullscreen></iframe><figcaption><a href="https://www.flickr.com/photos/offonourown/albums/$1/" target="_blank" rel="noopener noreferrer">View this photo album on Flickr</a></figcaption></figure>` $content -}}
 {{- $content | safeHTML -}}

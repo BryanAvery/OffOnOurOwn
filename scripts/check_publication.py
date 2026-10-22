@@ -55,7 +55,8 @@ for source_file in Path("content").rglob("*.html"):
 
     for album_id in album_ids:
         assert f'src="https://embedr.flickr.com/photosets/{album_id}"' in rendered, (
-            f"Missing embedded Flickr album {album_id} on {output_path}"
+            f"Missing embedded Flickr album {album_id} on {output_path}; "
+            f"rendered excerpt: {re.search(r'.{0,130}' + re.escape(album_id) + r'.{0,130}', rendered, re.DOTALL).group(0) if album_id in rendered else 'album ID absent'}"
         )
         assert f'https://www.flickr.com/photos/offonourown/albums/{album_id}/' in rendered, (
             f"Missing Flickr album link {album_id} on {output_path}"

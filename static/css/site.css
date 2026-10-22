@@ -4,3 +4,9 @@
 
 /* Restore migrated WordPress featured photographs on individual stories. */
 .article-featured{margin:28px 0 35px}.article-featured img{display:block;width:100%;height:auto;max-height:560px;object-fit:cover}
+
+/* Flickr albums restored from the original WordPress [flickr_set] shortcodes. */
+.wordpress-body .flickr-album{margin:30px 0;max-width:100%}
+.wordpress-body .flickr-album iframe{display:block;width:100%;height:auto;aspect-ratio:16/9;border:0;background:#e2e6e1}
+.wordpress-body .flickr-album figcaption{margin-top:9px;font-size:13px;text-align:right}
+.wordpress-body .flickr-album figcaption a{color:var(--forest);text-underline-offset:3px}

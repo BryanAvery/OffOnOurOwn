@@ -95,14 +95,25 @@ At one point he slipped off to the toilet. Nothing unusual there, except that he
 
 A note!
 
-For the very person Ellen was trying not to attract attention from.
+For the very person Ellen was trying so hard not to attract attention from.
 
-What had he written? Was it about her birthday? A special request? Some dreadful piece of information that a quick-witted compère could turn into five minutes of public entertainment?
+It turned out Luke had told Carmen it was Ellen's birthday and requested a song: *It's Raining Men*.
 
-I had no idea, but I was fairly sure Ellen hadn't authorised it.
+Given the weather outside, it was an inspired choice. Blackpool had spent the entire day trying to demonstrate the concept, although fortunately what was falling from the sky was still just water.
 
-I glanced at Dana. She grinned. We were both enjoying the show, and there was now the added pleasure of wondering what Luke had set in motion.
+Then Carmen announced Ellen's name.
 
+Ellen's face was a picture. She had spent the evening doing everything possible to avoid becoming part of the show, and now the compère had announced her birthday to the room. I glanced at Dana, who was grinning. Luke, meanwhile, looked rather pleased with his handiwork.
+
+And then the music started.
+
+*It's Raining Men.*
+
+Whatever embarrassment Ellen had felt vanished almost immediately. She and Luke jumped to their feet and started dancing, singing along and throwing themselves into the moment as though they'd been waiting all evening for precisely this invitation.
+
+There was something wonderfully fitting about it. Outside, the rain was being blown sideways along Blackpool's promenade. Inside, two of our favourite people were dancing to a song about an altogether more entertaining sort of downpour.
+
+Luke's secret note had worked rather better than any of us expected.
 
 <figure class="bp-photo bp-photo-wide"><img src="/images/blackpool/2026-10-23/IMG_5909.jpeg" alt="Friends, birthday celebrations and the sort of lighting that makes everyone look like a pop star." loading="lazy" decoding="async"><figcaption>Friends, birthday celebrations and the sort of lighting that makes everyone look like a pop star.</figcaption></figure>
 
@@ -139,11 +150,9 @@ By the end of the evening, the miserable journey seemed a long way behind us. Bl
 
 Ellen's birthday weekend had begun exactly as a Blackpool weekend ought to: loudly, unpredictably and in excellent company.
 
-And there was still the matter of Luke's note.
+We'd come for a wild weekend. Blackpool had supplied wild weather, wild entertainment and a birthday dedication delivered with impeccable comic timing.
 
-Whatever he'd written to Carmen, I suspected it hadn't been a polite request to leave Ellen alone.
+And thanks to Luke, we'd discovered that the best response to a Blackpool downpour was not necessarily to find an umbrella.
 
-We'd come for a wild weekend. Blackpool had supplied wild weather, wild entertainment and one friend quietly plotting something from the toilets.
-
-**It was only Friday. And Luke was already causing trouble.**
+**Sometimes, you just have to get up and dance.**
 

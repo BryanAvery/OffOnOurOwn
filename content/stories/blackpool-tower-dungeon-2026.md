@@ -23,13 +23,7 @@ We decided to pay good money to be threatened with execution.
 
 There were four of us: Dana, Luke, Ellen and me. Blackpool had made it perfectly clear that October was not a month for sunbathing, so an indoor attraction seemed a splendid idea. What we hadn't fully appreciated was that the Blackpool Tower Dungeon specialises in reducing otherwise respectable adults to shrieking wrecks.
 
-## Breakfast before the bloodshed
-
-Our morning had started in considerably more civilised surroundings. A round wooden table was laid for four, with woven placemats, green napkins, little jars of preserves and cups waiting patiently for tea. Outside the bay windows, the sky was a pale, unenthusiastic grey.
-
-<figure class="dg-left"><img src="/images/Blackpool/2026-10-24/IMG_5915.jpeg" alt="Breakfast table laid for four" loading="lazy"><figcaption>Our last civilised meal before the authorities caught up with us.</figcaption></figure>
-
-We stopped beneath Blackpool Tower for a photograph of Luke and Ellen. The Tower disappeared upwards into a blanket of cloud, while they stood smiling as though nothing alarming was about to happen.
+Before heading inside, we stopped beneath Blackpool Tower for a photograph of Luke and Ellen. The Tower disappeared upwards into a blanket of cloud, while they stood smiling as though nothing alarming was about to happen.
 
 <figure class="dg-right"><img src="/images/Blackpool/2026-10-24/IMG_5916.jpeg" alt="Luke and Ellen beneath Blackpool Tower" loading="lazy"><figcaption>Luke and Ellen, still blissfully unaware of the charges about to be brought against them.</figcaption></figure>
 

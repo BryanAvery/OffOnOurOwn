@@ -113,15 +113,29 @@ The Conspiracy tested loyalties and secrets. This was particularly unfair, given
 
 I have always believed myself a dependable travelling companion. The others may have formed different opinions by this point.
 
-## Courtroom: The dirty peasant affair
+## Courtroom: Guilty of absolutely everything
 
-Judge Blackheart's courtroom was the natural conclusion to all this suspicion. Here, everyone was guilty of something, and the only remaining question was who would be blamed first.
+By the time we reached Judge Blackheart's courtroom, we'd learnt that innocence was not a particularly useful defence in medieval Lancashire. The judge had a magnificent wig, a booming voice and the sort of expression that suggested he'd already decided the verdict before anyone had sat down.
 
-The photograph provides damning evidence. Luke and Dana point straight at Ellen. I join in. Ellen stands holding a sign reading **DIRTY PEASANT**, which is not a title she had requested.
+The first woman to be called forward was accused of dancing naked at the top of Blackpool Tower.
 
-<figure class="dg-wide"><img src="/images/Blackpool/2026-10-24/IMG_5933.jpeg" alt="The group before Judge Blackheart" loading="lazy"><figcaption>Three witnesses, no evidence and one very dirty peasant. Ellen never stood a chance.</figcaption></figure>
+Now, there are several problems with this allegation, not least the wind at that height in October. But the judge wasn't interested in practicalities. The accusation was delivered with such theatrical outrage that we all burst out laughing, while the poor woman played along beautifully.
 
-The judge wore an enormous wig and looked furious. I couldn't tell you what Ellen had done. Neither, I suspect, could the prosecution. But three people pointing at you is a formidable case under medieval law.
+Next came a man whose alleged offence was doing unspeakable things to sheep. His punishment? Banishment to Wales.
+
+The courtroom erupted. I don't think any of us had expected international relocation to feature quite so prominently in the sentencing guidelines. The man took it in good humour, and the judge pressed on as though this were a perfectly ordinary afternoon's work.
+
+By now, we were laughing so much that every new accusation seemed funnier than the last. The volunteers were brilliant, joining in rather than simply standing there looking embarrassed, and Judge Blackheart knew exactly how to make the most of them.
+
+Then it was Ellen's turn.
+
+Luke and Dana pointed at her. I joined in, showing precisely the sort of loyalty you'd hope for from close friends. Ellen was left holding a placard that read **DIRTY PEASANT**.
+
+<figure class="dg-wide"><img src="/images/Blackpool/2026-10-24/IMG_5933.jpeg" alt="The four friends in Judge Blackheart's courtroom, with Ellen holding the Dirty Peasant sign" loading="lazy"><figcaption>One naked dancer, one man banished to Wales and one dirty peasant. Justice had been extremely busy.</figcaption></figure>
+
+I couldn't tell you what Ellen had done to earn her title. Neither, I suspect, could the prosecution. But with three of us pointing confidently at her, she never stood a chance.
+
+We left the courtroom still laughing. If that was how the legal system worked, I was very glad nobody had asked about my driving.
 
 ## The Labyrinth: Google Maps unavailable
 

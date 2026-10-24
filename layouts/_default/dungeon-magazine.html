@@ -1,0 +1,8 @@
+{{ define "main" }}
+<link rel="stylesheet" href="{{ "css/dungeon-magazine.css" | relURL }}">
+<article class="dg-magazine">
+<header class="dg-hero"><div class="dg-hero-image" role="img" aria-label="Four friends encounter the Grim Reaper at Blackpool Tower Dungeon"></div><div class="dg-hero-copy"><span class="dg-kicker">OFF ON OUR OWN / BLACKPOOL / 24 OCTOBER 2026</span><h1>{{ .Title }}</h1><p>{{ .Description }}</p></div></header>
+<div class="dg-reading">{{ partial "media/article-content.html" . }}</div>
+<footer class="dg-footer"><a href="{{ site.Home.RelPermalink }}">← More travel stories</a></footer>
+</article>
+{{ end }}

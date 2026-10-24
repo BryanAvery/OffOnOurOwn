@@ -5,6 +5,8 @@ url: /blackpool-birthdays-and-funny-girls/
 description: "Seven and a half hours on the road, a birthday to celebrate and a mysterious note to the compère. Blackpool was already living up to its reputation."
 categories:
 - Travel Stories
+layout: blackpool-magazine
+featured_image: /images/blackpool/2026-10-23/IMG_5911.jpeg
 tags:
 - Blackpool
 - Funny Girls
@@ -47,6 +49,9 @@ Perfect, I thought. A wild weekend.
 
 Then another gust of wind hit Bandit and I realised they probably meant the weather.
 
+
+<figure class="bp-photo bp-photo-wide"><img src="/images/blackpool/2026-10-23/IMG_5907.jpeg" alt="The birthday weekend begins. Even the motorway couldn't keep us away." loading="lazy" decoding="async"><figcaption>The birthday weekend begins. Even the motorway couldn't keep us away.</figcaption></figure>
+
 ## A birthday and a Blackpool welcome
 
 At half past six, seven and a half hours after setting off, we finally arrived. Blackpool greeted us with rain blowing across the streets, puddles glittering beneath the lights and a wind that seemed personally offended by anyone attempting to remain dry.
@@ -66,6 +71,9 @@ Dana glanced at the rain.
 Inside Funny Girls, the contrast couldn't have been greater. Red and purple light washed over the ornate Art Deco interior. Curved balconies overlooked the room, music filled the air and the stage promised a world of feathers, sequins, towering hairstyles and extraordinary heels.
 
 After hours of brake lights, it felt like we'd arrived in another country. A much more entertaining one.
+
+
+<figure class="bp-photo bp-photo-float"><img src="/images/blackpool/2026-10-23/IMG_5908.jpeg" alt="A night at Funny Girls: plenty of sparkle, and absolutely nowhere to hide." loading="lazy" decoding="async"><figcaption>A night at Funny Girls: plenty of sparkle, and absolutely nowhere to hide.</figcaption></figure>
 
 ## Ellen tries to disappear
 
@@ -95,19 +103,31 @@ I had no idea, but I was fairly sure Ellen hadn't authorised it.
 
 I glanced at Dana. She grinned. We were both enjoying the show, and there was now the added pleasure of wondering what Luke had set in motion.
 
+
+<figure class="bp-photo bp-photo-wide"><img src="/images/blackpool/2026-10-23/IMG_5909.jpeg" alt="Friends, birthday celebrations and the sort of lighting that makes everyone look like a pop star." loading="lazy" decoding="async"><figcaption>Friends, birthday celebrations and the sort of lighting that makes everyone look like a pop star.</figcaption></figure>
+
 ## Halloween in heels
 
 The show itself was a riot of Halloween theatricality. Under shifting purple, red and yellow lights, performers swept across the stage in extraordinary costumes, dancing with the sort of balance and confidence I can barely manage while putting on socks.
 
 One performer wore a striking black-and-white harlequin outfit with patterned stockings, a blonde wig and heels that looked more suitable for architectural surveying than dancing. Another appeared in a red-and-black striped jumper and dark hat, adding a wonderfully mischievous Halloween touch.
 
+
+<figure class="bp-photo bp-photo-float-right"><img src="/images/blackpool/2026-10-23/IMG_5911.jpeg" alt="Halloween in heels. These costumes deserve their own risk assessment." loading="lazy" decoding="async"><figcaption>Halloween in heels. These costumes deserve their own risk assessment.</figcaption></figure>
+
 The music thumped. The audience cheered. Hair flew, costumes sparkled and every number seemed determined to outdo the one before it.
 
 I couldn't help admiring the effort involved. The performers made it all look easy, which is the surest sign that it wasn't.
 
+
+<figure class="bp-photo bp-photo-wide"><img src="/images/blackpool/2026-10-23/IMG_5912.jpeg" alt="The stage comes alive. Subtlety had sensibly taken the evening off." loading="lazy" decoding="async"><figcaption>The stage comes alive. Subtlety had sensibly taken the evening off.</figcaption></figure>
+
 We took photographs whenever we could. In the coloured lights, everyone acquired a slightly otherworldly complexion. Depending on the photograph, we looked either wonderfully glamorous or as though we'd been left too close to a faulty ultraviolet lamp.
 
 But there were lovely moments among all the spectacle. Luke and Ellen sitting close together, their hands clasped as they watched the stage. The four of us leaning into a photograph, grinning like people who had finally escaped the motorway. Dana enjoying the entertainment, Ellen relaxing into her birthday evening and Luke looking entirely too pleased with himself.
+
+
+<figure class="bp-photo bp-photo-wide"><img src="/images/blackpool/2026-10-23/IMG_5910.jpeg" alt="The best bit of the evening wasn't on stage. It was sharing it with friends." loading="lazy" decoding="async"><figcaption>The best bit of the evening wasn't on stage. It was sharing it with friends.</figcaption></figure>
 
 That's what I remember most clearly now. Not the traffic or the rain, but the four of us together, laughing at the same ridiculous moments.
 
@@ -127,11 +147,3 @@ We'd come for a wild weekend. Blackpool had supplied wild weather, wild entertai
 
 **It was only Friday. And Luke was already causing trouble.**
 
-<!-- Photo placement and caption plan: assets pending upload.
-1. IMG_5907.jpeg, after "Ellen tries to disappear": "Ellen maintaining a low profile. An ambitious strategy when Carmen has a microphone."
-2. IMG_5908.jpeg, after Carmen introduction: "Carmen takes the stage. A microphone, a towering hairstyle and nowhere for the audience to hide."
-3. IMG_5909.jpeg, after the paragraph about photographs: "Three smiles, several shades of purple and a very good reason to forget the M6."
-4. IMG_5910.jpeg, after the friendship paragraph: "The birthday crew. Seven and a half hours on the road, but worth every minute."
-5. IMG_5911.jpeg, after the Halloween costume description: "Halloween at Funny Girls. Heels that deserve their own risk assessment."
-6. IMG_5912.jpeg, after the same section: "When the hair, heels and choreography all have their own dramatic entrance."
--->

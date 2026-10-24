@@ -49,25 +49,47 @@ We emerged into the Dark Chapel, where a sinister monk introduced the history of
 
 I rather liked the atmosphere. Dana was less convinced by my enthusiasm for dark rooms occupied by threatening strangers.
 
-## The Plague Doctor: A very poor bedside manner
+## The Plague Doctor: An unfortunate bladder incident
 
-Next came Lancashire in 1349, with plague, rats and a doctor whose manner suggested that medical training had yet to catch up with the concept of patient reassurance.
+The Plague Doctor took us back to Lancashire in 1349, a time when medical knowledge was limited, hygiene was largely aspirational and the chances of leaving a consultation in better condition than you arrived seemed rather slim.
 
-There is nothing quite like being told about disease while standing in a room where everything looks as though it needs disinfecting.
+There was a patient laid out on a table, and the doctor set about removing organs with the confidence of someone who had never had to explain himself to the General Medical Council. We watched as one after another came out. It was gruesome, ridiculous and just realistic enough to make you wince.
 
-The doctor had the confidence of a man who had never been challenged by a medical regulator. His treatment options did not inspire confidence.
+Then he reached the bladder.
 
-'Would you let him examine you?' I whispered.
+It was stuck.
 
-'I'd rather take my chances with the rats,' came the reply.
+The doctor tugged. Nothing. He gave it another determined pull, and suddenly the thing came free, sending a spray of fluid straight towards us.
 
-<figure class="dg-wide"><img src="/images/Blackpool/2026-10-24/IMG_5931.jpeg" alt="The group posing in a grim medical scene" loading="lazy"><figcaption>The patient requested a second opinion. Preferably from someone born after 1349.</figcaption></figure>
+For one glorious second, we all reacted as though we'd actually been caught in the splash zone of a fourteenth-century operating theatre. Then the four of us burst into laughter. The sort of helpless laughter that makes it impossible to look at one another without starting again.
 
-## The Torturer: A hands-on demonstration
+There is something peculiarly funny about knowing perfectly well that an organ is a prop, and still being outraged when it sprays you.
 
-At Lancaster Castle's torture chamber, the instruments looked capable of persuading almost anyone to confess to anything. Audience participation was apparently encouraged, which is never a phrase you want to hear from someone standing beside medieval restraints.
+<figure class="dg-wide"><img src="/images/Blackpool/2026-10-24/IMG_5931.jpeg" alt="The group in the Dungeon's gruesome medical scene" loading="lazy"><figcaption>Medieval medicine. The doctor removed the bladder; we nearly lost control of ours laughing.</figcaption></figure>
 
-I tried to appear calm and interested, as though inspecting an unusually complicated piece of garden equipment. The chains, hooks and metalwork suggested that this was not going to end with a complimentary cup of tea.
+The medical experiments were not finished. Frankenstein was being created on a bench, and the doctor prepared to bring his creation to life. He flicked a switch, then pulled the wrong one.
+
+A small electric shock shot through the bench.
+
+We jumped. Not a polite little flinch, either, but the instinctive jolt of people who had been confidently watching a piece of theatre and suddenly discovered they were part of the electrical circuit.
+
+A moment earlier we'd been laughing at a flying bladder. Now we were staring at one another in surprise, laughing all over again. The Dungeon was proving remarkably good at catching us when our guard was down.
+
+## The Torturer: The axe factor
+
+Lancaster Castle's torture chamber was packed with chains, cages, hooks and instruments that looked as though their inventors had taken a perfectly good piece of ironmongery and asked, 'How could we make this considerably less pleasant?'
+
+Even knowing it was all staged, the room had an unsettling effect. The metalwork looked heavy, the shadows hid the corners, and the prospect of being volunteered for a demonstration made standing quietly at the back suddenly seem like an excellent plan.
+
+Then came the axes.
+
+Ellen and I ended up holding them, which made us look rather more enthusiastic about medieval punishment than either of us had intended. Dana, meanwhile, aimed an axe towards Luke. His expression suggested he was beginning to question the wisdom of bringing us all out together.
+
+I attempted the sort of brave, interested face a man wears when he wants everyone to believe he is entirely at ease. It was not wholly convincing. The props were ridiculous, but the atmosphere and the thought of being singled out still made me distinctly nervous.
+
+<figure class="dg-right"><img src="/images/Blackpool/2026-10-24/IMG_5936.jpeg" alt="Bryan and Ellen with axes while Dana threatens Luke in the torture chamber" loading="lazy"><figcaption>Ellen and I took charge of the axes. Dana appeared to have found a use for hers. Luke was understandably concerned.</figcaption></figure>
+
+The great trick of the Torturer was making us laugh at one another while quietly hoping the next audience volunteer would be somebody else.
 
 ## The Conspiracy: Trust absolutely nobody
 

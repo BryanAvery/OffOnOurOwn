@@ -75,21 +75,37 @@ We jumped. Not a polite little flinch, either, but the instinctive jolt of peopl
 
 A moment earlier we'd been laughing at a flying bladder. Now we were staring at one another in surprise, laughing all over again. The Dungeon was proving remarkably good at catching us when our guard was down.
 
-## The Torturer: The axe factor
+## The Torturer: Yorkshire, tongues and an inch at a time
 
-Lancaster Castle's torture chamber was packed with chains, cages, hooks and instruments that looked as though their inventors had taken a perfectly good piece of ironmongery and asked, 'How could we make this considerably less pleasant?'
+Lancaster Castle's torture chamber was the sort of place where you immediately became very interested in standing at the back. Chains dangled from the walls, sinister instruments glinted in the half-light, and the Torturer had the cheerful manner of someone who genuinely loved his work.
 
-Even knowing it was all staged, the room had an unsettling effect. The metalwork looked heavy, the shadows hid the corners, and the prospect of being volunteered for a demonstration made standing quietly at the back suddenly seem like an excellent plan.
+First, a lady from Yorkshire was locked in a cage.
 
-Then came the axes.
+What had she done to deserve such treatment? Nothing at all, apparently, apart from being from Yorkshire. In medieval Lancashire, this was evidently sufficient evidence for a conviction.
 
-Ellen and I ended up holding them, which made us look rather more enthusiastic about medieval punishment than either of us had intended. Dana, meanwhile, aimed an axe towards Luke. His expression suggested he was beginning to question the wisdom of bringing us all out together.
+We all laughed, including the lady in the cage, who threw herself into the performance. It was becoming clear that the real danger wasn't the torture equipment but being noticed by the actor.
 
-I attempted the sort of brave, interested face a man wears when he wants everyone to believe he is entirely at ease. It was not wholly convincing. The props were ridiculous, but the atmosphere and the thought of being singled out still made me distinctly nervous.
+Then another unfortunate man was selected and put in the chair. Things deteriorated rather quickly.
 
-<figure class="dg-right"><img src="/images/Blackpool/2026-10-24/IMG_5936.jpeg" alt="Bryan and Ellen with axes while Dana threatens Luke in the torture chamber" loading="lazy"><figcaption>Ellen and I took charge of the axes. Dana appeared to have found a use for hers. Luke was understandably concerned.</figcaption></figure>
+First, his tongue was theatrically ripped out. Then came a hook in the back of his skull, followed by the suggestion that he might be hung up for everyone's inspection. The Torturer delivered each new horror with such enthusiasm that you almost forgot this was supposed to be a family day out.
 
-The great trick of the Torturer was making us laugh at one another while quietly hoping the next audience volunteer would be somebody else.
+And then he introduced the willy cutter.
+
+This particular instrument, we were informed, would remove an inch at a time.
+
+An inch at a time!
+
+I glanced around at the other men in the room. There are some moments when the entire male population achieves perfect understanding without a single word being spoken.
+
+The poor volunteer played along magnificently, reacting to every fresh indignity, while the rest of us winced, howled and laughed. It was all play-acting, of course, but that was the joy of it. The audience weren't merely watching the show. They had become part of it, and everyone seemed determined to give the actors something to work with.
+
+Even knowing that nobody was actually going to lose a tongue, a skull or anything more personal, I found myself standing just a little further from the chair.
+
+Later, we posed with axes, which seemed a perfectly reasonable way to celebrate having survived the demonstration. Ellen and I held ours while Dana appeared to be considering whether hers might prove useful in a future disagreement with Luke.
+
+<figure class="dg-right"><img src="/images/Blackpool/2026-10-24/IMG_5936.jpeg" alt="Bryan and Ellen with axes while Dana faces Luke in the torture chamber" loading="lazy"><figcaption>After the tongue, the hook and the willy cutter, the axes seemed almost reassuring.</figcaption></figure>
+
+We left the torture chamber laughing, relieved that the volunteers had been such good sports and even more relieved that the Torturer hadn't picked me.
 
 ## The Conspiracy: Trust absolutely nobody
 

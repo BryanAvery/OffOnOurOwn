@@ -49,25 +49,63 @@ We emerged into the Dark Chapel, where a sinister monk introduced the history of
 
 I rather liked the atmosphere. Dana was less convinced by my enthusiasm for dark rooms occupied by threatening strangers.
 
-## The Plague Doctor: A very poor bedside manner
+## The Plague Doctor: An unfortunate bladder incident
 
-Next came Lancashire in 1349, with plague, rats and a doctor whose manner suggested that medical training had yet to catch up with the concept of patient reassurance.
+The Plague Doctor took us back to Lancashire in 1349, a time when medical knowledge was limited, hygiene was largely aspirational and the chances of leaving a consultation in better condition than you arrived seemed rather slim.
 
-There is nothing quite like being told about disease while standing in a room where everything looks as though it needs disinfecting.
+There was a patient laid out on a table, and the doctor set about removing organs with the confidence of someone who had never had to explain himself to the General Medical Council. We watched as one after another came out. It was gruesome, ridiculous and just realistic enough to make you wince.
 
-The doctor had the confidence of a man who had never been challenged by a medical regulator. His treatment options did not inspire confidence.
+Then he reached the bladder.
 
-'Would you let him examine you?' I whispered.
+It was stuck.
 
-'I'd rather take my chances with the rats,' came the reply.
+The doctor tugged. Nothing. He gave it another determined pull, and suddenly the thing came free, sending a spray of fluid straight towards us.
 
-<figure class="dg-wide"><img src="/images/Blackpool/2026-10-24/IMG_5931.jpeg" alt="The group posing in a grim medical scene" loading="lazy"><figcaption>The patient requested a second opinion. Preferably from someone born after 1349.</figcaption></figure>
+For one glorious second, we all reacted as though we'd actually been caught in the splash zone of a fourteenth-century operating theatre. Then the four of us burst into laughter. The sort of helpless laughter that makes it impossible to look at one another without starting again.
 
-## The Torturer: A hands-on demonstration
+There is something peculiarly funny about knowing perfectly well that an organ is a prop, and still being outraged when it sprays you.
 
-At Lancaster Castle's torture chamber, the instruments looked capable of persuading almost anyone to confess to anything. Audience participation was apparently encouraged, which is never a phrase you want to hear from someone standing beside medieval restraints.
+<figure class="dg-wide"><img src="/images/Blackpool/2026-10-24/IMG_5931.jpeg" alt="The group in the Dungeon's gruesome medical scene" loading="lazy"><figcaption>Medieval medicine. The doctor removed the bladder; we nearly lost control of ours laughing.</figcaption></figure>
 
-I tried to appear calm and interested, as though inspecting an unusually complicated piece of garden equipment. The chains, hooks and metalwork suggested that this was not going to end with a complimentary cup of tea.
+The medical experiments were not finished. Frankenstein was being created on a bench, and the doctor prepared to bring his creation to life. He flicked a switch, then pulled the wrong one.
+
+A small electric shock shot through the bench.
+
+We jumped. Not a polite little flinch, either, but the instinctive jolt of people who had been confidently watching a piece of theatre and suddenly discovered they were part of the electrical circuit.
+
+A moment earlier we'd been laughing at a flying bladder. Now we were staring at one another in surprise, laughing all over again. The Dungeon was proving remarkably good at catching us when our guard was down.
+
+## The Torturer: Yorkshire, tongues and an inch at a time
+
+Lancaster Castle's torture chamber was the sort of place where you immediately became very interested in standing at the back. Chains dangled from the walls, sinister instruments glinted in the half-light, and the Torturer had the cheerful manner of someone who genuinely loved his work.
+
+First, a lady from Yorkshire was locked in a cage.
+
+What had she done to deserve such treatment? Nothing at all, apparently, apart from being from Yorkshire. In medieval Lancashire, this was evidently sufficient evidence for a conviction.
+
+We all laughed, including the lady in the cage, who threw herself into the performance. It was becoming clear that the real danger wasn't the torture equipment but being noticed by the actor.
+
+Then another unfortunate man was selected and put in the chair. Things deteriorated rather quickly.
+
+First, his tongue was theatrically ripped out. Then came a hook in the back of his skull, followed by the suggestion that he might be hung up for everyone's inspection. The Torturer delivered each new horror with such enthusiasm that you almost forgot this was supposed to be a family day out.
+
+And then he introduced the willy cutter.
+
+This particular instrument, we were informed, would remove an inch at a time.
+
+An inch at a time!
+
+I glanced around at the other men in the room. There are some moments when the entire male population achieves perfect understanding without a single word being spoken.
+
+The poor volunteer played along magnificently, reacting to every fresh indignity, while the rest of us winced, howled and laughed. It was all play-acting, of course, but that was the joy of it. The audience weren't merely watching the show. They had become part of it, and everyone seemed determined to give the actors something to work with.
+
+Even knowing that nobody was actually going to lose a tongue, a skull or anything more personal, I found myself standing just a little further from the chair.
+
+Later, we posed with axes, which seemed a perfectly reasonable way to celebrate having survived the demonstration. Ellen and I held ours while Dana appeared to be considering whether hers might prove useful in a future disagreement with Luke.
+
+<figure class="dg-right"><img src="/images/Blackpool/2026-10-24/IMG_5936.jpeg" alt="Bryan and Ellen with axes while Dana faces Luke in the torture chamber" loading="lazy"><figcaption>After the tongue, the hook and the willy cutter, the axes seemed almost reassuring.</figcaption></figure>
+
+We left the torture chamber laughing, relieved that the volunteers had been such good sports and even more relieved that the Torturer hadn't picked me.
 
 ## The Conspiracy: Trust absolutely nobody
 
@@ -75,15 +113,29 @@ The Conspiracy tested loyalties and secrets. This was particularly unfair, given
 
 I have always believed myself a dependable travelling companion. The others may have formed different opinions by this point.
 
-## Courtroom: The dirty peasant affair
+## Courtroom: Guilty of absolutely everything
 
-Judge Blackheart's courtroom was the natural conclusion to all this suspicion. Here, everyone was guilty of something, and the only remaining question was who would be blamed first.
+By the time we reached Judge Blackheart's courtroom, we'd learnt that innocence was not a particularly useful defence in medieval Lancashire. The judge had a magnificent wig, a booming voice and the sort of expression that suggested he'd already decided the verdict before anyone had sat down.
 
-The photograph provides damning evidence. Luke and Dana point straight at Ellen. I join in. Ellen stands holding a sign reading **DIRTY PEASANT**, which is not a title she had requested.
+The first woman to be called forward was accused of dancing naked at the top of Blackpool Tower.
 
-<figure class="dg-wide"><img src="/images/Blackpool/2026-10-24/IMG_5933.jpeg" alt="The group before Judge Blackheart" loading="lazy"><figcaption>Three witnesses, no evidence and one very dirty peasant. Ellen never stood a chance.</figcaption></figure>
+Now, there are several problems with this allegation, not least the wind at that height in October. But the judge wasn't interested in practicalities. The accusation was delivered with such theatrical outrage that we all burst out laughing, while the poor woman played along beautifully.
 
-The judge wore an enormous wig and looked furious. I couldn't tell you what Ellen had done. Neither, I suspect, could the prosecution. But three people pointing at you is a formidable case under medieval law.
+Next came a man whose alleged offence was doing unspeakable things to sheep. His punishment? Banishment to Wales.
+
+The courtroom erupted. I don't think any of us had expected international relocation to feature quite so prominently in the sentencing guidelines. The man took it in good humour, and the judge pressed on as though this were a perfectly ordinary afternoon's work.
+
+By now, we were laughing so much that every new accusation seemed funnier than the last. The volunteers were brilliant, joining in rather than simply standing there looking embarrassed, and Judge Blackheart knew exactly how to make the most of them.
+
+Then it was Ellen's turn.
+
+Luke and Dana pointed at her. I joined in, showing precisely the sort of loyalty you'd hope for from close friends. Ellen was left holding a placard that read **DIRTY PEASANT**.
+
+<figure class="dg-wide"><img src="/images/Blackpool/2026-10-24/IMG_5933.jpeg" alt="The four friends in Judge Blackheart's courtroom, with Ellen holding the Dirty Peasant sign" loading="lazy"><figcaption>One naked dancer, one man banished to Wales and one dirty peasant. Justice had been extremely busy.</figcaption></figure>
+
+I couldn't tell you what Ellen had done to earn her title. Neither, I suspect, could the prosecution. But with three of us pointing confidently at her, she never stood a chance.
+
+We left the courtroom still laughing. If that was how the legal system worked, I was very glad nobody had asked about my driving.
 
 ## The Labyrinth: Google Maps unavailable
 

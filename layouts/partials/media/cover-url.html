@@ -1,7 +1,12 @@
 {{- /* Return a photograph from migrated WordPress metadata or story content. */ -}}
 {{- $image := "" -}}
+{{- with .Params.featured_image -}}
+  {{- $image = . -}}
+{{- end -}}
+{{- if not $image -}}
 {{- with .Params.legacy_featured_image -}}
   {{- $image = . -}}
+{{- end -}}
 {{- end -}}
 {{- if not $image -}}
   {{- $photos := findRE "(?i)https?://photos[.]offonourown[.]co[.]uk/[^\"'<>[:space:]]+" .RawContent 1 -}}

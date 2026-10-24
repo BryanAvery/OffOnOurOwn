@@ -21,7 +21,7 @@ There are perfectly sensible ways to spend a rainy Saturday in Blackpool. You co
 
 We decided to pay good money to be accused of witchcraft and dropped into a hole.
 
-There were four of us: Dana, Luke, Ellen and me. Outside, Blackpool Tower disappeared into low grey cloud, while Luke and Ellen posed beneath it with the relaxed expressions of people who hadn't yet met the staff downstairs.
+There were four of us: Dana, Luke, Ellen and me. Outside, the wind chased rain along the promenade and Blackpool Tower disappeared into low grey cloud. Luke and Ellen posed beneath it with the relaxed expressions of people who hadn't yet met the staff downstairs. I was optimistic. An indoor attraction, I reasoned, was the perfect answer to Blackpool's weather. Dana gave me a sideways glance. She knows that when I describe something as 'the perfect answer', events are usually preparing a rebuttal.
 
 <figure class="dg-right"><img src="/images/Blackpool/2026-10-24/IMG_5916.jpeg" alt="Luke and Ellen beneath Blackpool Tower" loading="lazy"><figcaption>Luke and Ellen, shortly before the justice system took a personal interest in us.</figcaption></figure>
 
@@ -47,7 +47,7 @@ She gave me the look reserved for statements that are technically correct but en
 
 We emerged into the Dark Chapel, where a sinister monk introduced the history of Lytham Priory. The shadows, stonework and solemn voice made it clear that this wasn't going to be one of those cheerful heritage tours where someone tells you how monks brewed beer.
 
-I rather liked the atmosphere. Dana was less convinced by my enthusiasm for dark rooms occupied by threatening strangers.
+I rather liked the atmosphere. The damp, ancient-looking stonework and the monk's solemn delivery made it feel as though we'd wandered several centuries away from the bright amusement arcades outside. Dana was less convinced by my enthusiasm for dark rooms occupied by threatening strangers. She stayed close enough for us to share the joke, which is one of the pleasures of travelling together: I usually volunteer the optimism, and she provides the judgement.
 
 ## The Plague Doctor: An unfortunate bladder incident
 
@@ -61,7 +61,7 @@ It was stuck.
 
 The doctor tugged. Nothing. He gave it another determined pull, and suddenly the thing came free, sending a spray of fluid straight towards us.
 
-For one glorious second, we all reacted as though we'd actually been caught in the splash zone of a fourteenth-century operating theatre. Then the four of us burst into laughter. The sort of helpless laughter that makes it impossible to look at one another without starting again.
+For one glorious second, we all recoiled as though we'd actually been caught in the splash zone of a fourteenth-century operating theatre. Then the four of us burst into laughter. I turned towards Dana, saw that she was laughing too, and that finished me. The sort of helpless laughter that makes it impossible to look at one another without starting again.
 
 There is something peculiarly funny about knowing perfectly well that an organ is a prop, and still being outraged when it sprays you.
 
@@ -111,7 +111,7 @@ We left the torture chamber laughing, relieved that the volunteers had been such
 
 The Conspiracy tested loyalties and secrets. This was particularly unfair, given that the four of us had arrived as friends and were now being encouraged to consider whether friendship was really worth the trouble.
 
-I have always believed myself a dependable travelling companion. The others may have formed different opinions by this point.
+I have always believed myself a dependable travelling companion. Dana has travelled with me often enough to know that this belief is not universally supported by the evidence. We exchanged a grin in the gloom. Whatever secrets the room wanted us to surrender, we had plenty of material to work with.
 
 ## Courtroom: Guilty of absolutely everything
 
@@ -135,7 +135,7 @@ Luke and Dana pointed at her. I joined in, showing precisely the sort of loyalty
 
 I couldn't tell you what Ellen had done to earn her title. Neither, I suspect, could the prosecution. But with three of us pointing confidently at her, she never stood a chance.
 
-We left the courtroom still laughing. If that was how the legal system worked, I was very glad nobody had asked about my driving.
+We left the courtroom still laughing. Ellen had taken her conviction with admirable good humour, and the rest of us were in no position to claim innocence. If that was how the legal system worked, I was very glad nobody had asked about my driving.
 
 ## The Labyrinth: Google Maps unavailable
 
@@ -149,7 +149,7 @@ Every apparent exit produced another reflection. Each turn offered the possibili
 
 'You've said that before.'
 
-At least Google Maps couldn't make matters worse.
+I kept choosing a direction with the confidence of a man who has never allowed a lack of evidence to spoil a good route. Dana's expression told me she recognised the technique. At least Google Maps couldn't make matters worse.
 
 ## The Séance: Madame Mary Wade has company
 
@@ -171,9 +171,7 @@ For a moment, the jokes could wait.
 
 The haunted woods of Pendle brought us back into the shadows, with witchcraft accusations seemingly waiting behind every tree. The sound effects were expertly timed to make perfectly rational adults jump at things they knew were coming.
 
-A photograph with axes captured the general mood of our descent into medieval disorder. We looked less like tourists and more like a committee that had taken a very unfortunate turn.
-
-<figure class="dg-right"><img src="/images/Blackpool/2026-10-24/IMG_5936.jpeg" alt="The four friends posing with medieval axes" loading="lazy"><figcaption>Four responsible adults, dangerous-looking props and not a risk assessment in sight.</figcaption></figure>
+The woods had a way of making us bunch closer together, then laugh at ourselves for doing so. After all the exaggerated threats of the earlier rooms, it was the simple uncertainty of what might be hiding in the darkness that got to us.
 
 Another photograph put us beside a hooded figure with a scythe beneath a huge moon. It was difficult to tell whether we'd met Death or simply another member of staff having a difficult shift.
 
@@ -193,9 +191,11 @@ I would like to report that we handled the experience with composure. Fortunatel
 
 At last came the Red Lion, a tavern where survivors could recover with a drink. After the plague, torture, witchcraft and sudden falling, the sight of a bar felt like a welcome return to civilisation.
 
-Outside, Blackpool remained wet and grey, and the Tower still stood reassuringly upright. But we'd spent the afternoon laughing at each other's reactions, finding courage in the least convincing places and enjoying the sort of shared silliness that becomes funnier every time someone produces the photographs.
+Outside, Blackpool was still doing its best impression of a car wash, and the Tower stood reassuringly upright above the promenade. Yet for a couple of hours we'd barely thought about the weather. We'd been too busy watching one another jump, laugh and volunteer our friends for medieval punishment.
 
-We had survived twelve stops in the Dungeon and emerged as four free citizens.
+It struck me afterwards that this is why I remember days like this more vividly than many grander adventures. Not because of the elaborate scenery or the actors, excellent though they were, but because of the moment a bladder flew across a room and Dana's laughter set me off again. You can plan a weekend down to the last tram stop. You can't plan that.
+
+We had survived the Dungeon and emerged as four free citizens, with photographs that would be brought out whenever anyone claimed to be brave.
 
 Well, three free citizens.
 

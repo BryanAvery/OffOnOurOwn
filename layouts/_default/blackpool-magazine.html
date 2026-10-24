@@ -1,0 +1,12 @@
+{{ define "main" }}
+{{ $media := "/images/blackpool/2026-10-23/" }}
+<article class="bp-magazine">
+<header class="bp-hero">
+<img class="bp-poster" src="{{ printf "%sIMG_5911.jpeg" $media }}" alt="" aria-hidden="true">
+<video autoplay muted loop playsinline preload="none" poster="{{ printf "%sIMG_5911.jpeg" $media }}" aria-hidden="true"><source src="{{ printf "%sIMG_5913.mov" $media }}" type="video/quicktime"></video>
+<div class="bp-hero-inner"><span class="bp-kicker">Off On Our Own · Blackpool · 23 October 2026</span><h1>{{ .Title }}</h1><p>{{ .Description }}</p><p class="bp-video-label">A weekend of friendship, birthday celebrations and wonderfully wild weather</p></div>
+</header>
+<div class="bp-reading">{{ partial "media/article-content.html" . }}</div>
+</article>
+<p class="bp-return"><a href="{{ site.Home.RelPermalink }}">← Back to the travel journal</a></p>
+{{ end }}

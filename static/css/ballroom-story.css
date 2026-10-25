@@ -1,9 +1,4 @@
-/* Ballroom chapter: larger photographs without affecting other stories. */
-.wordpress-body:has(a[href="/css/ballroom-story.css"]) figure { margin: 2.25rem auto; width: 100%; max-width: 980px; }
-.wordpress-body:has(a[href="/css/ballroom-story.css"]) figure img { display: block; width: 100%; height: auto; border-radius: 8px; }
-.wordpress-body:has(a[href="/css/ballroom-story.css"]) figure figcaption { margin-top: .6rem; font-size: .9rem; line-height: 1.5; text-align: center; }
-@media (max-width: 700px) {
-  .wordpress-body:has(a[href="/css/ballroom-story.css"]) figure { width: calc(100vw - 20px); max-width: none; position: relative; left: 50%; transform: translateX(-50%); margin: 1.8rem 0; }
-  .wordpress-body:has(a[href="/css/ballroom-story.css"]) figure img { width: 100%; max-width: none; border-radius: 4px; }
-  .wordpress-body:has(a[href="/css/ballroom-story.css"]) figure figcaption { padding: 0 12px; }
-}
+.ballroom-photo { width:100%; max-width:980px; margin:2rem auto; }
+.ballroom-photo img { display:block; width:100%; height:auto; border-radius:6px; }
+.ballroom-photo figcaption { padding:8px 12px; text-align:center; font-size:.9rem; }
+@media(max-width:700px) { .ballroom-photo { width:calc(100vw - 20px); max-width:none; position:relative; left:50%; transform:translateX(-50%); margin:1.5rem 0; } }

@@ -91,7 +91,7 @@ I don't know which was funnier: the shock itself or seeing the others jump. Dana
 
 ## The Torturer: Yorkshire, tongues and an inch at a time
 
-Lancaster Castle's torture chamber was the sort of place where you immediately became very interested in standing at the back. Chains dangled from the walls, sinister instruments glinted in the half-light, and the Torturer had the cheerful manner of someone who genuinely loved his work.
+Lancaster Castle's torture chamber was the sort of place where you immediately became very interested in standing at the back. Chains dangled from the walls, sinister instruments glinted in the half-light, and the Torturer had the cheerful manner of someone who genuinely loved her work.
 
 First, a lady from Yorkshire was locked in a cage.
 
@@ -103,7 +103,7 @@ Then another unfortunate man was selected and put in the chair. Things deteriora
 
 First, his tongue was theatrically ripped out. Then came a hook in the back of his skull, followed by the suggestion that he might be hung up for everyone's inspection. The Torturer delivered each new horror with such enthusiasm that you almost forgot this was supposed to be a family day out.
 
-And then he introduced the willy cutter.
+And then she introduced the willy cutter.
 
 This particular instrument, we were informed, would remove an inch at a time.
 

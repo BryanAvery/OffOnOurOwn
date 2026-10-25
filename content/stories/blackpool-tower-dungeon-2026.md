@@ -79,7 +79,7 @@ Then he stopped. He'd forgotten something important.
 
 Frankenstein needed a brain.
 
-The doctor carefully removed the brain and carried it behind the curtain. Next came a bag, followed by another shower of fluid that hit us. By now we were laughing and trying to work out what he might throw at us next.
+The doctor carefully removed the brain and carried it behind the curtain. Next came a bang, followed by another shower of fluid that hit us. By now we were laughing and trying to work out what he might throw at us next.
 
 At last, the doctor was ready to bring the monster to life. He reached for the power switch.
 

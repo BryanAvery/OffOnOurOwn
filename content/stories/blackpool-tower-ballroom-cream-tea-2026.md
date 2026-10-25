@@ -1,5 +1,5 @@
 ---
-title: "Strictly Scones, Ballroom Blunders and Two Men in Dr Martens"
+title: "Strictly Scones, Ballroom Blunders and Two Pairs of Dr Martens"
 date: '2026-10-24T17:00:00+01:00'
 url: /blackpool-tower-ballroom-cream-tea-2026/
 description: "Cream tea, the great jam-and-cream dispute and four unlikely dancers taking to Blackpool's legendary ballroom floor."
@@ -13,6 +13,8 @@ tags:
 - Cream Tea
 - England
 ---
+
+<link rel="stylesheet" href="/css/ballroom-story.css">
 
 *Saturday 24 October 2026*
 
@@ -136,7 +138,7 @@ I was busy navigating around other couples. Turning seemed an unnecessary additi
 
 Still, we followed the other dancers, made it around the floor and managed one full lap without colliding with anyone. Luke and Ellen completed theirs too.
 
-We had all danced on the famous Blackpool Tower Ballroom floor. Not in evening dress or proper dance shoes, but in our everyday clothes, including my Dr Martens.
+We had all danced on the famous Blackpool Tower Ballroom floor. Not in evening dress or proper dance shoes, but in our everyday clothes, including the Dr Martens boots Dana and I were both wearing.
 
 Fred Astaire would probably have chosen different footwear.
 
@@ -148,7 +150,7 @@ What I liked most was that nobody minded us having a go. The experienced couples
 
 When *Strictly Come Dancing* visits Blackpool, we'll watch with different eyes. We know that floor now. We know how tricky a turn can be. And we have video evidence, although I would prefer it never to reach the judges.
 
-Cinderella may have lost a glass slipper at the ball. I nearly lost Luke in a pair of Dr Martens.
+Cinderella may have lost a glass slipper at the ball. Dana and I made it round in our Dr Martens, although my sense of direction came dangerously close to disappearing.
 
 And I wouldn't have changed a thing.
 

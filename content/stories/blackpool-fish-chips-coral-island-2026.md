@@ -114,7 +114,7 @@ We watched coins teeter on the edge, refusing to fall. Then the machine started 
 
 We won about five tickets, only to discover that even ordinary prizes required hundreds or thousands. Five tickets might just earn us a sympathetic smile.
 
-<figure><img src="/images/Blackpool/2026-10-24/IMG_5950.jpeg" alt="Dana feeding coins into an arcade machine" loading="lazy"><figcaption>Dana studies the machine. Every coin is an investment. Apparently.</figcaption></figure>
+<figure><img src="/images/Blackpool/2026-10-24/IMG_5952.jpeg" alt="Coins piled up in a Blackpool penny waterfall machine" loading="lazy"><figcaption>Every coin is an investment. Apparently.</figcaption></figure>
 
 ### Luke versus the dinosaurs
 
@@ -178,9 +178,9 @@ Four hundred tickets. For a spider.
 
 She could probably have found one for free behind the sofa.
 
-<figure><img src="/images/Blackpool/2026-10-24/IMG_5953.jpeg" alt="Ellen holding a large bundle of prize tickets" loading="lazy"><figcaption>For one glorious moment, Ellen was the richest person in Coral Island. In tickets, anyway.</figcaption></figure>
+<figure><img src="/images/Blackpool/2026-10-24/IMG_5954.jpeg" alt="Ellen at the arcade ticket redemption machine" loading="lazy"><figcaption>For one glorious moment, Ellen was the richest person in Coral Island. In tickets, anyway.</figcaption></figure>
 
-<figure><img src="/images/Blackpool/2026-10-24/IMG_5954.jpeg" alt="Ellen at the arcade ticket machine" loading="lazy"><figcaption>The great ticket fortune meets the harsh reality of the prize counter.</figcaption></figure>
+
 
 Then Ellen noticed a little boy nearby. Without making a fuss, she gave him her winning ticket.
 

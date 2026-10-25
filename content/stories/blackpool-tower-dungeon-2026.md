@@ -17,11 +17,15 @@ tags:
 
 *Saturday 24 October 2026*
 
-There are perfectly sensible ways to spend a rainy Saturday in Blackpool. You could take afternoon tea, admire the Tower Ballroom or sit somewhere warm with a coffee.
+We had tickets to go up Blackpool Tower. Unfortunately, the wind had other plans.
 
-We decided to pay good money to be accused of witchcraft and dropped into a hole.
+It was blowing so hard that the Tower had closed to visitors. We stood outside in the rain, looking up at the grey clouds and wondering what to do instead. I'd been looking forward to the view from the top, but there wasn't much point arguing with the weather.
 
-There were four of us: Dana, Luke, Ellen and me. Outside, the wind chased rain along the promenade and Blackpool Tower disappeared into low grey cloud. Luke and Ellen posed beneath it with the relaxed expressions of people who hadn't yet met the staff downstairs. I was optimistic. An indoor attraction, I reasoned, was the perfect answer to Blackpool's weather. Dana gave me a sideways glance. She knows that when I describe something as 'the perfect answer', events are usually preparing a rebuttal.
+Then someone suggested the Blackpool Tower Dungeon.
+
+There were four of us: Dana, Luke, Ellen and me. A trip to the top of the Tower had suddenly turned into a trip underneath it, where we would pay good money to be frightened, accused of crimes and dropped through the air. I thought it sounded like a good alternative. Dana gave me one of her looks, but she was smiling.
+
+Luke and Ellen posed for a photograph beneath the Tower. At that point, none of us knew quite what we'd signed up for.
 
 <figure class="dg-right"><img src="/images/Blackpool/2026-10-24/IMG_5916.jpeg" alt="Luke and Ellen beneath Blackpool Tower" loading="lazy"><figcaption>Luke and Ellen, shortly before the justice system took a personal interest in us.</figcaption></figure>
 
@@ -29,7 +33,13 @@ A glowing **DROP DEAD gorgeous!** sign surrounded by skulls and twisted branches
 
 <figure class="dg-wide"><img src="/images/Blackpool/2026-10-24/IMG_5917.jpeg" alt="Dana and Ellen beneath the Drop Dead Gorgeous sign" loading="lazy"><figcaption>Drop dead gorgeous. The ladies looked splendid. The skeleton had let itself go.</figcaption></figure>
 
-A second sign declared **WAIT HERE. Your time will come.** Most attractions offer an estimated queue time. Here they offered a prophecy.
+A second sign declared **WAIT HERE. Your time will come.** It was not the most comforting welcome.
+
+Inside, the first thing that struck me was the smell. It was strong and pungent, the sort of smell that made you wonder what might be waiting around the next corner. The dim lighting and strange sounds added to the feeling that we'd stepped into somewhere we probably shouldn't be.
+
+Before the tour began, the staff took a series of photographs of all four of us. They told us to look frightened, which wasn't difficult in that setting. Then they handed us axes and took more pictures. We laughed and posed, but none of us could work out what the photographs were for.
+
+As we moved through the Dungeon, we discovered the clever trick. Our photographs appeared in the different scenes, making us part of the story. The frightened faces and the axes suddenly made sense. It was a lovely touch that linked the rooms together and gave us something else to laugh about.
 
 <figure class="dg-left"><img src="/images/Blackpool/2026-10-24/IMG_5918.jpeg" alt="Wait Here Your time will come sign" loading="lazy"><figcaption>Customer service with a distinctly medieval bedside manner.</figcaption></figure>
 
@@ -49,31 +59,35 @@ We emerged into the Dark Chapel, where a sinister monk introduced the history of
 
 I rather liked the atmosphere. The damp, ancient-looking stonework and the monk's solemn delivery made it feel as though we'd wandered several centuries away from the bright amusement arcades outside. Dana was less convinced by my enthusiasm for dark rooms occupied by threatening strangers. She stayed close enough for us to share the joke, which is one of the pleasures of travelling together: I usually volunteer the optimism, and she provides the judgement.
 
-## The Plague Doctor: An unfortunate bladder incident
+## The Plague Doctor: The operation nobody wanted
 
-The Plague Doctor took us back to Lancashire in 1349, a time when medical knowledge was limited, hygiene was largely aspirational and the chances of leaving a consultation in better condition than you arrived seemed rather slim.
-
-There was a patient laid out on a table, and the doctor set about removing organs with the confidence of someone who had never had to explain himself to the General Medical Council. We watched as one after another came out. It was gruesome, ridiculous and just realistic enough to make you wince.
+The Plague Doctor took us back to 1349. A patient lay on a table, and the doctor began pulling organs from the body while we watched. It was horrible and funny at the same time.
 
 Then he reached the bladder.
 
-It was stuck.
+It was stuck. He pulled once, then again. Suddenly it came free, and a spray of fluid shot towards us.
 
-The doctor tugged. Nothing. He gave it another determined pull, and suddenly the thing came free, sending a spray of fluid straight towards us.
+We jumped back and burst out laughing. I turned to Dana, who was laughing too, and that only made it worse. We knew it was all pretend, but nobody had expected to get sprayed.
 
-For one glorious second, we all recoiled as though we'd actually been caught in the splash zone of a fourteenth-century operating theatre. Then the four of us burst into laughter. I turned towards Dana, saw that she was laughing too, and that finished me. The sort of helpless laughter that makes it impossible to look at one another without starting again.
+<figure class="dg-wide"><img src="/images/Blackpool/2026-10-24/IMG_5931.jpeg" alt="The group in the Dungeon's medical scene" loading="lazy"><figcaption>We came for a history lesson and got caught in the splash zone.</figcaption></figure>
 
-There is something peculiarly funny about knowing perfectly well that an organ is a prop, and still being outraged when it sprays you.
+But the doctor hadn't finished. Behind a curtain, he was building Frankenstein's monster using the best parts from the body on the bench.
 
-<figure class="dg-wide"><img src="/images/Blackpool/2026-10-24/IMG_5931.jpeg" alt="The group in the Dungeon's gruesome medical scene" loading="lazy"><figcaption>Medieval medicine. The doctor removed the bladder; we nearly lost control of ours laughing.</figcaption></figure>
+He took out the heart. It was still beating.
 
-The medical experiments were not finished. Frankenstein was being created on a bench, and the doctor prepared to bring his creation to life. He flicked a switch, then pulled the wrong one.
+Then he stopped. He'd forgotten something important.
 
-A small electric shock shot through the bench.
+Frankenstein needed a brain.
 
-We jumped. Not a polite little flinch, either, but the instinctive jolt of people who had been confidently watching a piece of theatre and suddenly discovered they were part of the electrical circuit.
+The doctor carefully removed the brain and carried it behind the curtain. Next came a bag, followed by another shower of fluid that hit us. By now we were laughing and trying to work out what he might throw at us next.
 
-A moment earlier we'd been laughing at a flying bladder. Now we were staring at one another in surprise, laughing all over again. The Dungeon was proving remarkably good at catching us when our guard was down.
+At last, the doctor was ready to bring the monster to life. He reached for the power switch.
+
+Unfortunately, he pulled the wrong one.
+
+A small electric shock came through the wooden seats, right under our bottoms. We shot upwards in surprise. One moment we'd been watching the doctor, and the next we were part of his experiment.
+
+I don't know which was funnier: the shock itself or seeing the others jump. Dana and I looked at each other and started laughing again. The Dungeon was very good at catching us when we least expected it.
 
 ## The Torturer: Yorkshire, tongues and an inch at a time
 
@@ -100,10 +114,6 @@ I glanced around at the other men in the room. There are some moments when the e
 The poor volunteer played along magnificently, reacting to every fresh indignity, while the rest of us winced, howled and laughed. It was all play-acting, of course, but that was the joy of it. The audience weren't merely watching the show. They had become part of it, and everyone seemed determined to give the actors something to work with.
 
 Even knowing that nobody was actually going to lose a tongue, a skull or anything more personal, I found myself standing just a little further from the chair.
-
-Later, we posed with axes, which seemed a perfectly reasonable way to celebrate having survived the demonstration. Ellen and I held ours while Dana appeared to be considering whether hers might prove useful in a future disagreement with Luke.
-
-<figure class="dg-right"><img src="/images/Blackpool/2026-10-24/IMG_5936.jpeg" alt="Bryan and Ellen with axes while Dana faces Luke in the torture chamber" loading="lazy"><figcaption>After the tongue, the hook and the willy cutter, the axes seemed almost reassuring.</figcaption></figure>
 
 We left the torture chamber laughing, relieved that the volunteers had been such good sports and even more relieved that the Torturer hadn't picked me.
 
@@ -151,13 +161,33 @@ Every apparent exit produced another reflection. Each turn offered the possibili
 
 I kept choosing a direction with the confidence of a man who has never allowed a lack of evidence to spoil a good route. Dana's expression told me she recognised the technique. At least Google Maps couldn't make matters worse.
 
-## The Séance: Madame Mary Wade has company
+## The Séance: Ellen takes charge
 
-Madame Mary Wade attempted to contact the dead and draw us into the story of Kitty Breaks. The room was dark, the atmosphere tense and the prospect of receiving a message from beyond the grave was distinctly less appealing than it had sounded on the way in.
+The Séance room was dark and quiet, with a table and a Ouija board waiting for us. Madame Mary Wade was there to lead the séance, but she needed someone from the audience to help.
 
-Around the Ouija board, our faces told four separate stories. One of us looked sceptical, another alarmed, and at least one appeared ready to negotiate directly with the spirits for an early release.
+She chose Ellen.
 
-<figure class="dg-wide"><img src="/images/Blackpool/2026-10-24/IMG_5937.jpeg" alt="The group reacting around a Ouija board" loading="lazy"><figcaption>We asked the spirits if we'd get out alive. They declined to commit.</figcaption></figure>
+Ellen was brought to the front and placed at the head of the table, where she was supposed to control the séance. We watched her take her place, wondering what was about to happen.
+
+At first, the lights flickered. Then lightning flashed around the room. Things began to move, and the pointer on the Ouija board slid across the letters as though it were answering questions.
+
+Bells above the table started ringing.
+
+Then everything went dark.
+
+Suddenly, it began to rain inside the room. Before we could make sense of that, another flash of lightning lit up a man standing nearby.
+
+And then he was gone.
+
+A second flash showed him on the other side of the room.
+
+That was genuinely frightening. We knew it was a show, but in the darkness, with the bells ringing and the sudden flashes of light, it was impossible to guess where he would appear next. I found myself watching the corners of the room instead of the table.
+
+Then we were quickly ushered out. There wasn't much chance to discuss what had happened until we were safely in the next room.
+
+Ellen had been given control of the séance. I'm not sure any of us felt she had much control over what followed.
+
+<figure class="dg-wide"><img src="/images/Blackpool/2026-10-24/IMG_5937.jpeg" alt="The group photographed with a Ouija board" loading="lazy"><figcaption>Ellen was put in charge of the séance. The spirits had other ideas.</figcaption></figure>
 
 ## The Witch's Curse: Elizabeth Device awaits
 
@@ -181,9 +211,9 @@ Another photograph put us beside a hooded figure with a scythe beneath a huge mo
 
 After surviving the rest of the Dungeon, we reached the Drop Dead ride. A sudden vertical plunge was apparently considered a suitable reward for our cooperation.
 
-The photograph caught Luke and Dana at precisely the moment dignity abandoned them. Luke's mouth was wide open. Dana's eyes were screwed shut, her teeth clenched and her hair apparently trying to escape independently.
+The photograph caught Dana and me at the exact moment the ride dropped. My mouth was wide open. Dana's eyes were screwed shut, her teeth clenched and her hair flying upwards.
 
-<figure class="dg-wide"><img src="/images/Blackpool/2026-10-24/IMG_5934.jpeg" alt="Luke and Dana reacting on the drop ride" loading="lazy"><figcaption>Luke discovered a new vocal range. Dana's hair applied for separate evacuation.</figcaption></figure>
+<figure class="dg-wide"><img src="/images/Blackpool/2026-10-24/IMG_5934.jpeg" alt="Bryan and Dana reacting on the drop ride" loading="lazy"><figcaption>Bryan discovered a new vocal range. Dana's hair tried to escape without her.</figcaption></figure>
 
 I would like to report that we handled the experience with composure. Fortunately, the photographs make such a claim impossible.
 
@@ -191,9 +221,9 @@ I would like to report that we handled the experience with composure. Fortunatel
 
 At last came the Red Lion, a tavern where survivors could recover with a drink. After the plague, torture, witchcraft and sudden falling, the sight of a bar felt like a welcome return to civilisation.
 
-Outside, Blackpool was still doing its best impression of a car wash, and the Tower stood reassuringly upright above the promenade. Yet for a couple of hours we'd barely thought about the weather. We'd been too busy watching one another jump, laugh and volunteer our friends for medieval punishment.
+Outside, the wind was still blowing and the Tower was still closed. But we weren't disappointed any more. We'd spent the afternoon laughing at each other, jumping at things we couldn't see and watching complete strangers join in the fun.
 
-It struck me afterwards that this is why I remember days like this more vividly than many grander adventures. Not because of the elaborate scenery or the actors, excellent though they were, but because of the moment a bladder flew across a room and Dana's laughter set me off again. You can plan a weekend down to the last tram stop. You can't plan that.
+The best part wasn't any single room. It was seeing Dana laugh when the bladder sprayed us, watching Ellen take her place at the séance table, and finding out that even a wooden seat could give you a fright. The unexpected change of plan had given us a story we'd be telling for years.
 
 We had survived the Dungeon and emerged as four free citizens, with photographs that would be brought out whenever anyone claimed to be brave.
 

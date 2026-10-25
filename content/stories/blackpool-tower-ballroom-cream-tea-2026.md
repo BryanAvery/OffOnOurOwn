@@ -72,7 +72,7 @@ Luke concentrated on his scone. Dana watched us with the expression of someone w
 
 Eventually, we agreed that the scones were lovely, even if Ellen had been led astray by Devon.
 
-<figure><img src="/images/Blackpool/2026-10-24/IMG_5925.jpeg" alt="Luke and Ellen enjoying scones with jam and cream" loading="lazy"><figcaption>Luke and Ellen demonstrate that the real priority is eating the evidence.</figcaption></figure>
+<figure><img src="/images/Blackpool/2026-10-24/IMG_5926.jpeg" alt="Luke and Ellen enjoying scones with jam and cream" loading="lazy"><figcaption>Luke and Ellen demonstrate that the real priority is eating the evidence.</figcaption></figure>
 
 ## The music of the Wurlitzer
 

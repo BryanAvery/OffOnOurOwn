@@ -5,10 +5,12 @@
 {{ $pins := slice }}
 {{ range where (where site.RegularPages "Section" "trips") "Params.status" "completed" }}
   {{ $trip := . }}
-  {{ with .Params.map_stops }}
-    {{ range . }}{{ $pins = $pins | append (dict "name" (printf "%s, %s" .city .country) "lat" .latitude "lng" .longitude "url" $trip.RelPermalink "count" 1 "trip" true) }}{{ end }}
-  {{ else if and .Params.latitude .Params.longitude }}
-    {{ $pins = $pins | append (dict "name" (printf "%s, %s" .Params.city .Params.country) "lat" .Params.latitude "lng" .Params.longitude "url" .RelPermalink "count" 1 "trip" true) }}
+  {{ if .Params.map_stops }}
+    {{ range .Params.map_stops }}{{ $pins = $pins | append (dict "name" (printf "%s, %s" .city .country) "lat" .latitude "lng" .longitude "url" $trip.RelPermalink "count" 1 "trip" true) }}{{ end }}
+  {{ else }}
+    {{ if and .Params.latitude .Params.longitude }}
+      {{ $pins = $pins | append (dict "name" (printf "%s, %s" .Params.city .Params.country) "lat" .Params.latitude "lng" .Params.longitude "url" .RelPermalink "count" 1 "trip" true) }}
+    {{ end }}
   {{ end }}
 {{ end }}
 {{ range $name, $term := site.Taxonomies.categories }}{{ $label := $term.Page.Title }}{{ with index $coords $label }}{{ $pins = $pins | append (dict "name" $label "lat" (index . 0) "lng" (index . 1) "url" $term.Page.RelPermalink "count" $term.Count) }}{{ end }}{{ end }}

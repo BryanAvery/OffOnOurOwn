@@ -15,8 +15,10 @@
       {{ $linked := eq (.Params.trip | default "") $trip.File.ContentBaseName }}
       {{ $byLocation := and (eq (lower (.Params.city | default "")) (lower $trip.Params.city)) (eq (lower (.Params.country | default "")) (lower $trip.Params.country)) }}
       {{ $byBlackpool := and (eq $trip.File.ContentBaseName "blackpool-october-2026") (in (lower $story.File.ContentBaseName) "blackpool") }}
-      {{ $endExclusive := time.AddDate $trip.Params.end_date 0 0 1 }}
-      {{ $inDateRange := and (ge $story.Date $trip.Params.start_date) (lt $story.Date $endExclusive) }}
+      {{ $storyDay := dateFormat "2006-01-02" $story.Date }}
+      {{ $startDay := dateFormat "2006-01-02" $trip.Params.start_date }}
+      {{ $endDay := dateFormat "2006-01-02" $trip.Params.end_date }}
+      {{ $inDateRange := and (ge $storyDay $startDay) (le $storyDay $endDay) }}
       {{ $countryAllowed := true }}
       {{ with $trip.Params.story_countries }}
         {{ $countryAllowed = false }}

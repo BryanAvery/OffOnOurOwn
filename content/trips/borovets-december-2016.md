@@ -10,7 +10,7 @@ country: "Bulgaria"
 city: "Borovets"
 latitude: 42.2686
 longitude: 23.6042
-travellers: ["Bryan", "Dana"]
+travellers: ["Bryan"]
 vehicle: ""
 highlights:
   - "Heading to Borovets for a winter break"

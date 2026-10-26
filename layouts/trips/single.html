@@ -4,7 +4,7 @@
   <h1>{{ .Title }}</h1>
   <p>{{ .Description }}</p>
   {{ with .Params.date_range }}<p><strong>Dates:</strong> {{ . }}</p>{{ else }}<p><strong>Dates:</strong> {{ dateFormat "2 January 2006" $.Params.start_date }} – {{ dateFormat "2 January 2006" $.Params.end_date }}</p>{{ end }}
-  <p><strong>Travelling together:</strong> {{ delimit .Params.travellers ", " }}</p>
+  <p><strong>{{ if gt (len .Params.travellers) 1 }}Travelling together:{{ else }}Travelling:{{ end }}</strong> {{ delimit .Params.travellers ", " }}</p>
   <h2>How it felt</h2><div class="content">{{ .Content }}</div>
   <h2>Highlights</h2><ul>{{ range .Params.highlights }}<li>{{ . }}</li>{{ end }}</ul>
   <h2>Stories from this trip</h2>

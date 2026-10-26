@@ -10,7 +10,7 @@ country: "Jamaica"
 city: "Kingston"
 latitude: 17.9712
 longitude: -76.7936
-travellers: ["Bryan", "Dana"]
+travellers: ["Bryan"]
 vehicle: ""
 highlights:
   - "Exploring Kingston, Jamaica"

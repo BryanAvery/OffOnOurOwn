@@ -10,7 +10,7 @@ country: "USA"
 city: "New York"
 latitude: 40.7128
 longitude: -74.0060
-travellers: ["Bryan", "Dana"]
+travellers: ["Bryan"]
 vehicle: ""
 highlights:
   - "Starting in New York, including time in Manhattan"

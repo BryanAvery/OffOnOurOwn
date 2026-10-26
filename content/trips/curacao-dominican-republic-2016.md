@@ -10,7 +10,7 @@ country: "Curaçao"
 city: "Willemstad"
 latitude: 12.1224
 longitude: -68.8824
-travellers: ["Bryan", "Dana"]
+travellers: ["Bryan"]
 vehicle: ""
 highlights:
   - "Exploring Willemstad and Curaçao"

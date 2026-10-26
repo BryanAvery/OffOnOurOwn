@@ -12,7 +12,6 @@ latitude: 40.7128
 longitude: -74.0060
 travellers: ["Bryan", "Dana"]
 vehicle: ""
-story_countries: ["USA", "U.S.A.", "United States", "United States of America", "Canada"]
 highlights:
   - "Starting in New York, including time in Manhattan"
   - "Crossing the Midwest and visiting Yellowstone"

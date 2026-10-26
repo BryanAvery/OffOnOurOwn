@@ -6,6 +6,7 @@
 {{ with .Params.destinations }}<div class="tags">{{ range . }}<span>{{ . }}</span>{{ end }}</div>{{ end }}
 {{ with .Params.categories }}<div class="tags">{{ range . }}<span>{{ . }}</span>{{ end }}</div>{{ end }}
 {{ with .Params.legacy_featured_image }}{{ if not (in $.RawContent .) }}<figure class="article-featured"><img src="{{ . | safeURL }}" alt="Photograph accompanying {{ $.Title }}" loading="eager"></figure>{{ end }}{{ end }}
+{{ partial "story-audio.html" . }}
 <div class="wordpress-body">{{ partial "media/article-content.html" . }}</div>
 {{ with .Params.migration_notes }}<aside class="migration-notice"><strong>Migration preview:</strong> This story includes legacy elements still being checked.</aside>{{ end }}
 </article><p><a href="{{ site.Home.RelPermalink }}">← Back home</a></p>{{ end }}

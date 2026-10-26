@@ -9,15 +9,17 @@
   <h2>Highlights</h2><ul>{{ range .Params.highlights }}<li>{{ . }}</li>{{ end }}</ul>
   <h2>Stories from this trip</h2>
   {{ $trip := . }}{{ $matches := slice }}
-  {{ range where site.RegularPages "Section" "stories" }}
+  {{ range site.RegularPages }}
     {{ $story := . }}
-    {{ $linked := eq (.Params.trip | default "") $trip.File.ContentBaseName }}
-    {{ $byLocation := and (eq (lower (.Params.city | default "")) (lower $trip.Params.city)) (eq (lower (.Params.country | default "")) (lower $trip.Params.country)) }}
-    {{ $byBlackpool := and (eq $trip.File.ContentBaseName "blackpool-october-2026") (in (lower $story.File.ContentBaseName) "blackpool") }}
-    {{ $inDateRange := and (ge $story.Date $trip.Params.start_date) (le $story.Date $trip.Params.end_date) }}
-    {{ $countryAllowed := true }}{{ with $trip.Params.story_countries }}{{ $countryAllowed = in . ($story.Params.country | default "") }}{{ end }}
-    {{ $byDate := and $inDateRange $countryAllowed }}
-    {{ if or $linked $byLocation $byBlackpool $byDate }}{{ $matches = $matches | append $story }}{{ end }}
+    {{ if in (slice "stories" "travel") $story.Section }}
+      {{ $linked := eq (.Params.trip | default "") $trip.File.ContentBaseName }}
+      {{ $byLocation := and (eq (lower (.Params.city | default "")) (lower $trip.Params.city)) (eq (lower (.Params.country | default "")) (lower $trip.Params.country)) }}
+      {{ $byBlackpool := and (eq $trip.File.ContentBaseName "blackpool-october-2026") (in (lower $story.File.ContentBaseName) "blackpool") }}
+      {{ $inDateRange := and (ge $story.Date $trip.Params.start_date) (le $story.Date $trip.Params.end_date) }}
+      {{ $countryAllowed := true }}{{ with $trip.Params.story_countries }}{{ $countryAllowed = in . ($story.Params.country | default "") }}{{ end }}
+      {{ $byDate := and $inDateRange $countryAllowed }}
+      {{ if or $linked $byLocation $byBlackpool $byDate }}{{ $matches = $matches | append $story }}{{ end }}
+    {{ end }}
   {{ end }}
   {{ if $matches }}{{ $largeList := gt (len $matches) 30 }}{{ if $largeList }}<details><summary>Read {{ len $matches }} stories from this trip</summary>{{ end }}
     <ul>{{ range $matches.ByDate.Reverse }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}</ul>{{ if $largeList }}</details>{{ end }}

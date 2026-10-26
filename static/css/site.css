@@ -10,3 +10,22 @@
 .wordpress-body .flickr-album iframe{display:block;width:100%;height:auto;aspect-ratio:16/9;border:0;background:#e2e6e1}
 .wordpress-body .flickr-album figcaption{margin-top:9px;font-size:13px;text-align:right}
 .wordpress-body .flickr-album figcaption a{color:var(--forest);text-underline-offset:3px}
+
+
+/* Make the 2010–2011 Around the World archive easier to read. */
+.article--around-world .wordpress-body{max-width:72ch;margin:32px auto;font-size:18px;line-height:1.85;color:#35443d}
+.article--around-world .wordpress-body p{margin:1.25em 0;white-space:pre-line}
+.article--around-world .wordpress-body h2,.article--around-world .wordpress-body h3{margin:2em 0 .7em;color:var(--forest)}
+.article--around-world .wordpress-body ul,.article--around-world .wordpress-body ol{padding-left:1.5em;margin:1.3em 0}
+.article--around-world .wordpress-body li{margin:.45em 0}
+.article--around-world .wordpress-body a{color:var(--forest);text-decoration-thickness:1px;text-underline-offset:3px}
+.article--around-world .wordpress-body blockquote{margin:2em 0;padding:.3em 1.2em;border-left:3px solid var(--rust);color:#59665e;background:var(--cream)}
+.article--around-world .wordpress-body img{border:7px solid var(--cream);box-shadow:0 8px 24px #283b341a}
+.article--around-world .wordpress-body .inline-thumb,.article--around-world .wordpress-body [class*="alignleft"],.article--around-world .wordpress-body [class*="alignright"],.article--around-world .wordpress-body [class*="float-left"],.article--around-world .wordpress-body [class*="float-right"]{float:none!important;clear:both;display:table;width:auto;max-width:100%;margin:2rem auto}
+.article--around-world .wordpress-body .inline-thumb img{max-width:100%;height:auto;margin:0 auto}
+.article--around-world .wordpress-body .image_title{margin-top:.65rem;text-align:center;font-size:.82rem;color:#68766c}
+.article--around-world .wordpress-body p.meta{padding:.8rem 1rem;border-left:3px solid var(--rust);background:var(--cream);font-size:.82rem;line-height:1.55;color:#68766c}
+.article--around-world .wordpress-body p.meta img{display:inline-block;width:22px;height:auto;margin:0 .4rem 0 0;vertical-align:middle;border:0;box-shadow:none}
+.article--around-world .wordpress-body p.meta .date{display:none}
+.article--around-world .wordpress-body iframe{display:block;width:100%;max-width:100%;aspect-ratio:16/9;height:auto;border:0;margin:2rem auto}
+@media(max-width:700px){.article--around-world .wordpress-body{font-size:16px;line-height:1.8}.article--around-world .wordpress-body .inline-thumb{max-width:100%}.article--around-world .wordpress-body img{border-width:4px}}

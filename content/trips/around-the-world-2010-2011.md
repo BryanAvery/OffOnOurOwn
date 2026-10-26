@@ -10,7 +10,7 @@ country: "Multiple countries"
 city: "New York"
 latitude: 40.7128
 longitude: -74.0060
-travellers: ["Bryan", "Dana"]
+travellers: ["Bryan"]
 vehicle: ""
 highlights:
   - "Beginning in New York and travelling through Canada"

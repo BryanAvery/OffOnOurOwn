@@ -10,7 +10,7 @@ country: "Peru"
 city: "Huaraz"
 latitude: -9.5278
 longitude: -77.5278
-travellers: ["Bryan", "Dana"]
+travellers: ["Bryan"]
 vehicle: ""
 highlights:
   - "Travelling through northern Peru, including Trujillo and Huaraz"

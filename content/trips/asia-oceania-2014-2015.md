@@ -10,7 +10,7 @@ country: "Multiple countries"
 city: "Colombo"
 latitude: 6.9271
 longitude: 79.8612
-travellers: ["Bryan", "Dana"]
+travellers: ["Bryan"]
 vehicle: ""
 highlights:
   - "Starting in Sri Lanka and travelling onward through India"

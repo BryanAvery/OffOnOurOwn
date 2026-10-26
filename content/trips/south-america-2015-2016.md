@@ -10,7 +10,7 @@ country: "Multiple countries"
 city: "Bogotá"
 latitude: 4.7110
 longitude: -74.0721
-travellers: ["Bryan", "Dana"]
+travellers: ["Bryan"]
 vehicle: ""
 highlights:
   - "Travelling from Colombia through Ecuador and Peru"

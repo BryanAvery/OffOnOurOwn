@@ -1,4 +1,7 @@
-{{ define "main" }}<article class="article"><p class="eyebrow">{{ if eq .Section "travel" }}Travel archive{{ else if eq .Section "stories" }}Travel journal{{ else }}Off On Our Own{{ end }}</p><h1>{{ .Title }}</h1>
+{{ define "main" }}
+{{ $storyDay := .Date.Format "2006-01-02" }}
+{{ $aroundWorld := and (eq .Section "stories") (ge $storyDay "2010-11-27") (le $storyDay "2011-11-26") }}
+<article class="article{{ if $aroundWorld }} article--around-world{{ end }}"><p class="eyebrow">{{ if eq .Section "travel" }}Travel archive{{ else if eq .Section "stories" }}Travel journal{{ else }}Off On Our Own{{ end }}</p><h1>{{ .Title }}</h1>
 {{ if ne .Section "pages" }}<p class="dateline">{{ .Date.Format "2 January 2006" }}</p>{{ end }}
 {{ with .Params.destinations }}<div class="tags">{{ range . }}<span>{{ . }}</span>{{ end }}</div>{{ end }}
 {{ with .Params.categories }}<div class="tags">{{ range . }}<span>{{ . }}</span>{{ end }}</div>{{ end }}

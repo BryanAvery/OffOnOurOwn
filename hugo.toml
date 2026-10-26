@@ -1,5 +1,5 @@
 baseURL = "https://offonourown.co.uk/"
-languageCode = 'en-gb'
+locale = 'en-gb'
 title = 'Off On Our Own'
 summaryLength = 36
 

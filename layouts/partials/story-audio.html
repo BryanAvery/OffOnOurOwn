@@ -1,0 +1,12 @@
+{{- if eq .Section "stories" -}}
+{{- $audio := .Params.audio -}}
+{{- if $audio -}}
+<section class="story-audio" aria-label="Listen to this story">
+  <p><strong>Listen to this story</strong></p>
+  <audio controls preload="none" style="width:100%;max-width:640px">
+    <source src="{{ $audio | relURL }}" type="audio/mpeg">
+    Your browser does not support audio playback.
+  </audio>
+</section>
+{{- end -}}
+{{- end -}}

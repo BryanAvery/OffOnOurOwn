@@ -1,0 +1,529 @@
+---
+title: "Back to Delhi Again: Elephants, Endless Parades and a Suitcase Full of Pans"
+date: '2011-11-24T13:31:09Z'
+lastmod: '2026-10-26T20:10:00Z'
+url: /back-to-delhiagain/
+legacy_id: '94'
+original_url: https://offonourown.co.uk/packages/back-to-delhiagain/
+legacy_type: post
+categories:
+- Uncategorized
+migration_notes:
+- Missing featured image metadata
+---
+
+![shapeimage_4 (5)](/wp-content/uploads/2016/05/shapeimage_4-5-300x225.png)
+
+Our final days in India involved a railway feast, a Sikh festival, a questionable haircut, a mountain of kitchen equipment and the sort of chaos that makes Delhi impossible to forget.
+
+There are two things you can never predict when travelling through India. The first is when your train will arrive. The second is what on earth will happen when you finally get there.
+
+As we discovered, both are best approached with patience, a sense of humour and absolutely no firm plans.
+
+## The Railway Feast to Delhi
+
+We arrived at Mumbai railway station at 4.40 pm, expecting the usual Indian railway experience. Instead, we found ourselves standing in a station that was remarkably clean, smart and organised.
+
+It was almost like Paddington.
+
+Almost.
+
+Our train was equally impressive. We settled into our compartment, sharing it with a couple of African travellers and several Indian passengers, and prepared ourselves for the long overnight journey to Delhi.
+
+Then the food started arriving.
+
+First came drinks. Then snacks. Then more drinks. Newspapers appeared, followed by another round of food. Every half an hour, somebody seemed to arrive carrying something else.
+
+And it was all included in the ticket price.
+
+We had expected a train journey. What we got was a travelling buffet with beds.
+
+“Do you want any more?”
+
+“I haven’t finished the last lot!”
+
+By the time we were offered yet another helping, we were beginning to wonder whether the train was actually going to Delhi or whether we had accidentally booked ourselves onto a mobile restaurant.
+
+The company was interesting, too. Having other foreign travellers in the compartment made a welcome change. We chatted with the African couple, although the Indian passengers preferred to keep themselves to themselves. Despite our attempts at conversation, they barely made eye contact.
+
+A shame, really. Some of our favourite moments in India had come from chatting to complete strangers.
+
+Still, the journey passed peacefully, and we managed something rather unusual for an Indian overnight train.
+
+A decent night’s sleep.
+
+We were due into Delhi at 8.30 am.
+
+Naturally, we arrived three hours late.
+
+Nobody seemed particularly concerned. There was no obvious explanation, no great announcement and certainly no apology.
+
+It was India. The train had arrived. What more did we want?
+
+## Bryan’s Brilliant Hotel Plan
+
+With just one night left before our final day in India, we had decided to treat ourselves to somewhere a little more comfortable.
+
+We had accumulated enough belongings to open a small market stall, and the thought of packing everything into our bags in a cramped room wasn’t particularly appealing.
+
+Fortunately, I knew just the place.
+
+Or at least I thought I did.
+
+“I know a good hotel,” I announced confidently.
+
+This is a sentence that should probably come with a warning.
+
+Off we went, following my excellent local knowledge, until we arrived at a hotel beside what appeared to be Delhi’s answer to London’s North Circular.
+
+Traffic thundered past. Horns blared. The road was busy enough to qualify as a permanent traffic jam.
+
+It wasn’t quite the peaceful final-night retreat we had imagined.
+
+Jody surveyed the surroundings.
+
+“Are you sure this is the place?”
+
+“Well, it looked better when I remembered it.”
+
+She decided to investigate some alternatives while I stayed behind in reception, recovering from the enormous responsibility of choosing the wrong hotel.
+
+It turned out to be an excellent decision.
+
+Not mine, obviously.
+
+When Jody returned, she had found somewhere much better, back in Main Bazaar, where we had spent so much of our time in Delhi.
+
+There was just one small problem.
+
+The road had been closed.
+
+And something rather interesting was happening.
+
+## A Festival Right Outside Our Window
+
+At first, we couldn’t work out what was going on. Crowds were gathering, music was playing and people were preparing for what looked like an enormous parade.
+
+Well, we couldn’t possibly ignore that.
+
+We stopped to watch for a while before making our way to our new hotel, the Shelton, right in the middle of Main Bazaar.
+
+As we checked in, the man behind reception casually mentioned something rather wonderful.
+
+“The parade will come right past your window.”
+
+Now that’s what I call choosing a hotel.
+
+We hurried upstairs, opened the curtains and discovered that we had somehow secured front-row seats to a Sikh festival.
+
+And what a sight it was.
+
+The narrow street below had become a river of colour. Men rode horses through the crowds, bands played lively music and decorated vehicles rolled slowly past, covered in flowers.
+
+Petals floated through the air. People waved from the street, smiling up at us and asking for photographs.
+
+There were garlands everywhere, bright colours against the dusty buildings and the constant sound of music mixed with the familiar chorus of Delhi’s traffic.
+
+Although, for once, even the traffic had to surrender.
+
+We stood at our bedroom window, grinning like children who had discovered the best seats at a show without paying for tickets.
+
+Then I spotted something.
+
+People were handing out flower garlands.
+
+Naturally, I had to investigate.
+
+“I’ll just pop downstairs.”
+
+Jody knew better than to ask how long that might take.
+
+A few minutes later, I returned carrying beautiful rose garlands.
+
+The smell was extraordinary. Deep, sweet and unmistakably rosy, nothing like the faintly scented flowers you often find in English supermarkets.
+
+For a few rupees, we had brought a little piece of the festival back to our room.
+
+Outside, the music continued and the procession seemed to stretch on forever.
+
+We had spent weeks planning routes, booking trains and searching for places to stay, yet one of our loveliest moments had happened entirely by accident.
+
+All because I’d chosen the wrong hotel.
+
+I felt this deserved some recognition.
+
+Jody was less convinced.
+
+## Special Tea and the Great Free Food Disaster
+
+After all that excitement, we had a little snooze before heading out to our favourite Delhi balcony bar.
+
+There was something rather wonderful about sitting above Main Bazaar with a pot of “special tea”, watching the madness unfold below.
+
+The streets were still packed with people celebrating. Music drifted between the buildings, flower petals covered parts of the road and food stalls had appeared everywhere.
+
+Better still, some were giving away free food.
+
+Free food!
+
+This required careful planning.
+
+We looked at the stalls, looked at our tea and made what seemed a perfectly reasonable decision.
+
+“We’ll finish this, then go and get something.”
+
+Unfortunately, hundreds of other people had apparently reached the same conclusion, only rather more quickly.
+
+By the time we wandered downstairs, the food had gone.
+
+Every last bit.
+
+We had managed to miss an entire free feast because we were enjoying a cup of tea.
+
+A very British disaster.
+
+Now properly hungry, we wandered around the streets looking for something to eat.
+
+And that’s how we ended up buying a bag of fresh peas from a vegetable stall.
+
+Not a curry. Not a samosa. Not even a chapati.
+
+Peas.
+
+Sometimes travelling broadens your culinary horizons. Sometimes it leaves you standing in a Delhi street eating vegetables from a bag.
+
+## The Great Indian Kitchenware Expedition
+
+There was, however, another important mission to complete before leaving India.
+
+We needed cooking equipment.
+
+Not because we had suddenly become professional Indian chefs, but because we had fallen in love with the food and fancied recreating some of it at home.
+
+And, rather dangerously, we had extra baggage allowance.
+
+This is the sort of information that should never be given to two people who enjoy a bargain.
+
+We found a kitchenware shop packed from floor to ceiling with shiny metal pots, pans, plates and dishes.
+
+There were thali plates, water cups, rice dishes and chapati pans in every possible size.
+
+We started with a sensible plan.
+
+“Just a couple of things.”
+
+Then we saw something else.
+
+“Oh, that would be useful.”
+
+And something else.
+
+“We might as well get one of those.”
+
+Before long, we had assembled enough kitchen equipment to cater for a reasonably sized Indian wedding.
+
+The shopkeeper must have thought Christmas had arrived early.
+
+The astonishing thing was the price.
+
+Less than £10 for the lot.
+
+Ten pounds!
+
+Back in Britain, that probably wouldn’t have bought us the lid of one decent saucepan.
+
+We staggered back to the hotel carrying our purchases, with the growing suspicion that our baggage allowance was about to become a matter of national importance.
+
+“I’m sure these pans weigh 23 kilos on their own.”
+
+We deposited our metal mountain in the room, congratulated ourselves on another brilliant bargain and finished our bag of peas.
+
+Then we went out for a proper meal.
+
+## Dinner with an Artist and an Elephant
+
+For our evening meal, we returned to a rather grubby basement restaurant we’d discovered earlier in our travels.
+
+It wasn’t much to look at.
+
+The decor had clearly been installed some years before anyone invented the idea of interior design, and the basement had the sort of atmosphere that might make a health inspector reach for his notebook.
+
+But the food was excellent.
+
+And that, as we had learned in India, was often what mattered most.
+
+We shared a table with an artist from Washington, DC, and spent the evening chatting about travelling, India and the strange things you encounter when you leave familiar places behind.
+
+Then, just when we thought Delhi couldn’t possibly surprise us any more, an elephant ambled down the road.
+
+An actual elephant.
+
+In the middle of Delhi.
+
+Among the cars, tuk-tuks, motorbikes and pedestrians, there it was, wandering along as though this were the most normal thing in the world.
+
+Nobody seemed especially bothered.
+
+In London, an elephant walking down Oxford Street would probably bring the entire city to a standstill.
+
+In Delhi, it was just another road user.
+
+We watched in disbelief.
+
+“Did you just see that?”
+
+“An elephant?”
+
+“Yep.”
+
+And then we carried on eating.
+
+That was the magic of Delhi. Just when you thought you’d seen everything, something else would come strolling past, usually with four legs and no regard for traffic regulations.
+
+We loved it.
+
+## Our Last Day in India
+
+### One Haircut, One Head Massage and a Very Full Suitcase
+
+Our final morning arrived far too quickly.
+
+After all the weeks of travelling, exploring, getting lost, finding wonderful food and meeting people, we were suddenly facing the business of going home.
+
+There were bags to pack, souvenirs to squeeze into impossible spaces and the small matter of transporting half an Indian kitchen back to Britain.
+
+Jody volunteered to tackle the packing.
+
+I volunteered for a haircut and head massage.
+
+I felt we had divided the responsibilities fairly.
+
+Jody may have disagreed.
+
+Indian barbers are an experience in themselves. A haircut can quickly become a full-scale treatment involving vigorous rubbing, tapping and head manipulation that leaves you wondering whether you’ve booked a trim or a minor medical procedure.
+
+Still, I emerged looking respectable and feeling thoroughly refreshed.
+
+Back at the hotel, Jody had been wrestling with the luggage.
+
+I wisely avoided commenting on the amount of space my new kitchen equipment occupied.
+
+### A Saree in Seven Hours
+
+There was one thing Jody had been considering buying throughout our time in India.
+
+A saree.
+
+And now, with only hours remaining, she finally decided to get one.
+
+We found a shop with a lovely selection of fabrics, and she chose one she liked.
+
+There was enough spare material to make the matching little top, which sounded like a wonderful idea.
+
+Except it was already about 1 pm.
+
+On our last day.
+
+With a flight home looming.
+
+“Can you make it today?”
+
+The shopkeeper didn’t seem remotely concerned.
+
+A man appeared, took Jody’s measurements and confidently promised the finished top would be ready by 8 pm.
+
+Seven hours.
+
+In Britain, you might struggle to get a pair of trousers shortened in seven days.
+
+Here, apparently, an entire fitted garment could be produced between lunch and dinner.
+
+We decided to trust him.
+
+After all, India had been teaching us for weeks that the impossible was often perfectly achievable, provided you didn’t ask too many questions.
+
+While Jody dealt with the finer points of Indian fashion, I began thinking about lunch.
+
+This led me to a rather grotty little café.
+
+It looked cheap, cheerful and possibly not entirely acquainted with modern food hygiene standards.
+
+Naturally, I decided to eat there.
+
+It was a decision my stomach would later have a few things to say about.
+
+### The Hunt for an Ambassador
+
+Our next mission was to find an Ambassador taxi.
+
+These wonderful old-fashioned Indian cars had fascinated us throughout the trip.
+
+With their rounded bodies, enormous bonnets and distinctive shape, they looked as though they had driven straight out of the 1950s.
+
+The curious thing was that some appeared almost brand new.
+
+I had a theory.
+
+Somewhere in India, there was probably a factory still using the same machinery it had installed half a century earlier, turning out cars that looked old the moment they left the production line.
+
+And why not?
+
+If something works, why change it?
+
+We spent part of the afternoon wandering around, looking for one and enjoying our final hours among Delhi’s busy streets.
+
+Jody also decided to have her hands decorated with henna again.
+
+The artist worked carefully, drawing intricate patterns across her skin with the sort of steady hand I could only dream of possessing.
+
+We bought some henna to take home as well, imagining ourselves creating equally impressive designs on our friends.
+
+Given my artistic ability, I suspected my attempts might resemble a spider having a nervous breakdown.
+
+Still, it was worth a try.
+
+Eventually, it was time to return to the saree shop.
+
+Would the top be ready?
+
+Of course it was.
+
+Perfectly made, beautifully fitted and waiting for collection.
+
+The whole outfit had cost less than £10.
+
+Another bargain.
+
+At this point, I was beginning to wonder whether we should have bought an extra suitcase.
+
+Or possibly an Ambassador taxi to carry everything.
+
+### One Last Tuk-Tuk to India Gate
+
+For our final evening in India, there was really only one place we wanted to visit.
+
+India Gate.
+
+We climbed into a tuk-tuk for what would be our last ride through Delhi.
+
+The driver plunged into the traffic with the familiar confidence of a man who regarded road markings as friendly suggestions.
+
+Horns sounded from every direction. Motorbikes squeezed through gaps that didn’t appear to exist, and pedestrians stepped into the road with remarkable faith in their fellow human beings.
+
+We had grown strangely fond of it all.
+
+When we reached India Gate, the monument was illuminated against the evening sky.
+
+Families wandered across the open spaces, children played and groups gathered to enjoy the cooler air.
+
+We decided to record a little video, sharing our thoughts about India and what the journey had meant to us.
+
+It seemed like a fitting way to end our adventure.
+
+We had barely started when somebody approached.
+
+“Photo?”
+
+Of course.
+
+We smiled and posed.
+
+Then another person appeared.
+
+And another.
+
+Before long, our quiet farewell video had turned into one final photography session.
+
+Throughout India, people had regularly asked to have their photographs taken with us. Sometimes we felt like minor celebrities, although neither of us could quite understand why.
+
+We had become used to standing beside complete strangers, smiling for their cameras and then watching them wander off looking delighted.
+
+It was rather lovely, really.
+
+So we obliged one last time.
+
+We had arrived in India as curious travellers. We were leaving with hundreds of memories, a ridiculous amount of luggage and probably a place in several dozen family photo albums.
+
+Not bad for a couple of tourists.
+
+### The Last Wander Through Main Bazaar
+
+Back in Main Bazaar, we took one final wander through the streets that had become so familiar.
+
+The shops were still open. Traders called out from their doorways. Motorbikes threaded their way between shoppers, and the air carried that unmistakable Delhi mixture of cooking spices, incense, dust, exhaust fumes and occasionally something you really didn’t want to identify.
+
+It was noisy.
+
+It was crowded.
+
+It was chaotic.
+
+And we were going to miss it.
+
+Over the weeks, Delhi had become more than somewhere we passed through. It was a place we kept returning to, each time finding something new.
+
+We had learned how to cross its roads, where to find good food, how to bargain without taking ourselves too seriously and how to accept that plans were merely suggestions.
+
+We had seen extraordinary kindness, baffling contradictions, wonderful celebrations and enough unexpected sights to fill several books.
+
+There were moments when India had exhausted us. Moments when we wanted nothing more than a quiet room, a proper cup of tea and a little less attention.
+
+Yet now, standing in those familiar streets, neither of us was quite ready to leave.
+
+We eventually climbed back to the hotel rooftop for one final hot chocolate.
+
+Below us, Delhi carried on doing what Delhi does best.
+
+Making noise.
+
+Lots of it.
+
+We sat together, enjoying the warm evening and thinking about everything we had experienced.
+
+Tomorrow we would be heading home.
+
+There would be familiar roads, familiar food and the reassuring certainty that an elephant was unlikely to wander past while we were having dinner.
+
+But there was something about India that had got under our skin.
+
+The colours, the people, the smells, the constant surprises and the wonderful feeling that anything could happen around the next corner.
+
+And usually did.
+
+We finished our hot chocolates and headed downstairs for our final night.
+
+**Night night, India.**
+
+We came looking for adventure and found rather more than we bargained for.
+
+Including approximately 23 kilos of saucepans.
+
+---
+
+## Where We Stayed: Shelton Hotel, Delhi
+
+| Category | Our rating |
+| --- | --- |
+| Room | 9/10 |
+| Location | 10/10 |
+| Staff | 7/10 |
+| Value for money | 9/10 |
+| Would we stay again? | Absolutely |
+
+The room was clean, modern, comfortable and just what we needed for our final days in India.
+
+The location couldn’t have been better, right on Main Bazaar, surrounded by all the noise, colour and activity that made Delhi so memorable.
+
+And having a Sikh festival pass directly beneath our bedroom window was an unexpected bonus that no hotel brochure could possibly have promised.
+
+**Overall Delhi experience: 9/10**
+
+Delhi is a city of contradictions. One moment you’re surrounded by wonderful smells from street kitchens, the next you’re wondering what on earth you’ve just stepped in. There are magnificent buildings beside crumbling walls, generous strangers among determined salesmen and moments of unexpected peace hidden within the chaos.
+
+It can be exhausting, confusing, frustrating and completely wonderful, sometimes all within five minutes.
+
+Would we come back?
+
+Without hesitation.
+
+Although next time, I might leave the chapati pans at home.
